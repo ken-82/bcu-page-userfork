@@ -1,0 +1,17 @@
+{
+
+    "assets":[
+        ["000001","basic set 1/3","040836"]
+    ],
+
+    "pc-libs":[
+
+    ],
+
+    "pc-jars":[
+        ["040837","this version adds new server address",0]
+    ],
+
+    "cal":1,
+    "music":0
+}
