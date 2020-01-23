@@ -115,11 +115,7 @@
     ],
 
     "pc-jars": [
-        [
-            "040900",
-            "this version adds new server address",
-            0
-        ]
+        ["040900","this version adds new server address",0]
     ],
 
     "cal": 1,
