@@ -1,8 +1,82 @@
 {
-
-    "assets":[
-        ["000001","basic set 1/3","040836"]
+    "pc-assets": [
+        ["000001","","040800"],
+        ["000002","","040800"],
+        ["000003","","040800"],
+        ["080504","","040800"],
+        ["080602","","040800"],
+        ["080603","","040800"],
+        ["080604","","040800"],
+        ["080700","","040800"],
+        ["080705","","040800"],
+        ["080706","","040800"],
+        ["080800","","040800"],
+        ["080801","","040800"],
+        ["080900","","040800"],
+        ["080902","","040800"],
+        ["081000","","040800"],
+        ["081005","","040800"],
+        ["090000","","040800"],
+        ["090100","","040800"],
+        ["090102","","040800"],
+        ["090103","","040800"],
+        ["090200","","040800"]
     ],
+
+    "pc-libs": [
+        "gluegen-rt-2.3.2.jar",
+        "commons-logging-1.2.jar",
+        "google-oauth-client-java6-1.23.0.jar",
+        "gluegen-rt-2.3.2-natives-linux-armv6.jar",
+        "jogl-all-2.3.2-natives-android-armv6.jar",
+        "gluegen-rt-2.3.2-natives-windows-amd64.jar",
+        "google-http-client-1.24.1.jar",
+        "httpcore-4.4.10.jar",
+        "jogl-all-2.3.2-natives-solaris-amd64.jar",
+        "guava-20.0.jar",
+        "jogl-all-2.3.2-natives-linux-amd64.jar",
+        "gluegen-rt-2.3.2-natives-solaris-i586.jar",
+        "jcodec-0.2.3.jar",
+        "json-20180813.jar",
+        "google-api-services-drive-v3-rev105-1.23.0.jar",
+        "httpclient-4.5.6.jar",
+        "gluegen-rt-2.3.2-natives-android-armv6.jar",
+        "vorbisspi-1.0.3.3.jar",
+        "gluegen-rt-main-2.3.2.jar",
+        "gluegen-rt-2.3.2-natives-solaris-amd64.jar",
+        "gluegen-rt-2.3.2-natives-macosx-universal.jar",
+        "jogl-all-2.3.2-natives-windows-i586.jar",
+        "jogl-all-2.3.2-natives-windows-amd64.jar",
+        "google-api-client-1.24.1.jar",
+        "jetty-util-6.1.26.jar",
+        "jogl-all-2.3.2-natives-linux-i586.jar",
+        "jogl-all-2.3.2-natives-android-aarch64.jar",
+        "jogl-all-2.3.2.jar",
+        "gluegen-rt-2.3.2-natives-linux-amd64.jar",
+        "jogl-all-2.3.2-natives-linux-armv6hf.jar",
+        "commons-io-2.6.jar",
+        "jetty-6.1.26.jar",
+        "commons-codec-1.10.jar",
+        "tritonus-share-0.3.7.4.jar",
+        "jogl-all-2.3.2-natives-linux-armv6.jar",
+        "jogl-all-main-2.3.2.jar",
+        "gluegen-rt-2.3.2-natives-android-aarch64.jar",
+        "jcodec-javase-0.2.3.jar",
+        "jogl-all-2.3.2-natives-macosx-universal.jar",
+        "gluegen-rt-2.3.2-natives-linux-armv6hf.jar",
+        "gluegen-rt-2.3.2-natives-windows-i586.jar",
+        "google-oauth-client-jetty-1.23.0.jar",
+        "jackson-core-2.9.2.jar",
+        "jorbis-0.0.17.4.jar",
+        "google-http-client-jackson2-1.24.1.jar",
+        "httpmime-4.5.6.jar",
+        "jogl-all-2.3.2-natives-solaris-i586.jar",
+        "jsr305-3.0.2.jar",
+        "gluegen-rt-2.3.2-natives-linux-i586.jar",
+        "google-oauth-client-1.24.1.jar",
+        "servlet-api-2.5-20081211.jar"
+    ],
+<<<<<<< HEAD
 	
 	"android_test":"0.11.7",
 	"android_ver":"0.10.6",
@@ -39,15 +113,54 @@
 		"090200",
 		"090201"
 	],
+=======
+>>>>>>> eda0146d2b33d9ce18074d04433414d7699724e9
 
-    "pc-libs":[
+    "android_test": "0.11.6",
 
+    "android_ver": "0.10.6",
+
+    "android": [
+        "000001",
+        "000002",
+        "000003",
+        "080504",
+        "080602",
+        "080603",
+        "080604",
+        "080605",
+        "080700",
+        "080705",
+        "080706",
+        "080800",
+        "080801",
+        "080802",
+        "080900",
+        "080901",
+        "080902",
+        "081000",
+        "081001",
+        "081005",
+        "081006",
+        "090000",
+        "090001",
+        "090100",
+        "090101",
+        "090102",
+        "090103",
+        "090104",
+        "090200",
+        "090201"
     ],
 
-    "pc-jars":[
-        ["040837","this version adds new server address",0]
+    "pc-jars": [
+        [
+            "040900",
+            "this version adds new server address",
+            0
+        ]
     ],
 
-    "cal":1,
-    "music":113
+    "cal": 1,
+    "music": 113
 }
