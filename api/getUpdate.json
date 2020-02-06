@@ -20,7 +20,8 @@
         ["090100","","040800"],
         ["090102","","040800"],
         ["090103","","040800"],
-        ["090200","","040800"]
+        ["090200","","040800"],
+        ["090300","","040902"]
     ],
 
     "pc-libs": [
@@ -115,8 +116,9 @@
     ],
 
     "pc-jars": [
-        ["040901","this version add volcano attack and add poison and volcano to custom abilities",0],
-        ["040900","this version adds new server address",0]
+        ["040901","this version add 9.3 data",0],
+        ["040901","this version add volcano attack and add poison and volcano to custom abilities",1],
+        ["040900","this version adds new server address",1]
     ],
 
     "cal": 1,
