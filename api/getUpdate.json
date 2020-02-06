@@ -116,7 +116,7 @@
     ],
 
     "pc-jars": [
-        ["040901","this version add 9.3 data",0],
+        ["040902","this version add 9.3 data",0],
         ["040901","this version add volcano attack and add poison and volcano to custom abilities",1],
         ["040900","this version adds new server address",1]
     ],
