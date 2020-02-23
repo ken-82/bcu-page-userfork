@@ -118,7 +118,8 @@
     ],
 
     "pc-jars": [
-        ["040903","this version fixed music bug and summon bug",0],
+        ["040904","this version fixes replay bug",0],
+        ["040903","this version fixes music bug and summon bug",0],
         ["040902","this version add 9.3 data",0],
         ["040901","this version add volcano attack and add poison and volcano to custom abilities",1],
         ["040900","this version adds new server address",1]
