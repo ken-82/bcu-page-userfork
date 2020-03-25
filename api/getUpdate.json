@@ -163,6 +163,7 @@
     ],
 
     "pc-jars": [
+        ["040907","this version fixes animation bug",0],
         ["040906","this version fixes animation bug",0],
         ["040904","this version fixes replay bug",1],
         ["040903","this version fixes music bug and summon bug",1],
