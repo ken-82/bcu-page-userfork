@@ -83,9 +83,9 @@
         "servlet-api-2.5-20081211.jar"
     ],
 
-    "android_test": "0.13.12",
+    "android_test": "0.14.0",
 
-    "android_ver": "0.13.4",
+    "android_ver": "0.13.12",
 
     "android": [
         "000001",
