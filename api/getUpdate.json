@@ -171,6 +171,7 @@
     ],
 
     "pc-jars": [
+		["040911","this version fixed imu.surge bug", 0],
 		["040910","this version fixes several bugs",1],
 		["040909","this version adds 9.5 data",1],
         ["040908","this version adds large screen choice memorization",0],
