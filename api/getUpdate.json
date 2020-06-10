@@ -175,7 +175,8 @@
     ],
 
     "pc-jars": [
-		["040912","this version optimizes wave effect", 0],
+		["040913","this version adds new custom abilities", 0],
+		["040912","this version optimizes wave effect", 1],
 		["040911","this version fixes imu.surge bug", 1],
 		["040910","this version fixes several bugs",1],
 		["040909","this version adds 9.5 data",1],
