@@ -176,7 +176,8 @@
     ],
 
     "pc-jars": [
-		["040914","this version fixes bugs and changes theme ability", 0],
+		["041000","this version adds 9.7/9.8, orb, search bar, and fixes minor bugs", 0],
+		["040914","this version fixes bugs and changes theme ability", 1],
 		["040913","this version adds new custom abilities", 0],
 		["040912","this version optimizes wave effect", 1],
 		["040911","this version fixes imu.surge bug", 1],
