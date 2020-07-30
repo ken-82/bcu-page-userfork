@@ -176,6 +176,7 @@
     ],
 
     "pc-jars": [
+		["041001","this version adds dark theme, itf3 zombie, fix minor bugs", 0],
 		["041000","this version adds 9.7/9.8, orb, search bar, and fixes minor bugs", 0],
 		["040914","this version fixes bugs and changes theme ability", 1],
 		["040913","this version adds new custom abilities", 0],
