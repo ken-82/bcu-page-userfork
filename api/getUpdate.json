@@ -182,6 +182,7 @@
     ],
 
     "pc-jars": [
+		["041004","this version fixes kb bug, music memory leak, talent bug", 0],
 		["041003","this version fixes export problem", 0],
 		["041002","this version fixes critical bug, adds custom loop time, improves theme", 0],
 		["041001","this version adds dark theme, itf3 zombie, fix minor bugs", 0],
