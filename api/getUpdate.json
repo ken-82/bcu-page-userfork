@@ -182,6 +182,7 @@
     ],
 
     "pc-jars": [
+		["041007","this version fixes bc stages multiplication bug", 0],
 		["041006","this version re-enables export button and fix icon bug", 0],
 		["041005","this version fixes number format bug", 0],
 		["041004","this version fixes kb bug, music memory leak, talent bug", 0],
