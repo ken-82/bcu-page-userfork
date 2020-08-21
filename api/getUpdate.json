@@ -90,7 +90,7 @@
         "servlet-api-2.5-20081211.jar"
     ],
 
-    "android_test": "0.14.18",
+    "android_test": "0.14.19",
 
     "android_ver": "0.14.11",
 
@@ -184,6 +184,7 @@
     ],
 
     "pc-jars": [
+		["041008","this version fixes layout problem in stage edit page", 0],
 		["041007","this version fixes bc stages multiplication bug", 0],
 		["041006","this version re-enables export button and fix icon bug", 0],
 		["041005","this version fixes number format bug", 0],
