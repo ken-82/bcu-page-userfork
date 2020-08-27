@@ -9,7 +9,9 @@
         {"id":"000007","desc":"default required asset 7/9","ver":"050000","type":"core"},
         {"id":"000008","desc":"default required asset 8/9","ver":"050000","type":"core"},
         {"id":"000009","desc":"default required asset 9/9","ver":"050000","type":"core"},
-        {"id":"010000","desc":"android required asset","ver":"050000","type":"android"}
+        {"id":"000010","desc":"android required asset","ver":"050000","type":"android"},
+		{"id":"090900","desc":"BC 9.9 contents","ver":"050000","type":"core"},
+		{"id":"090901","desc":"BC 9.9 enemy icons and medals","ver":"050000","type":"android"}
     ],
 
     "pc_libs": [
