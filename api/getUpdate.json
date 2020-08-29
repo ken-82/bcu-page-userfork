@@ -187,6 +187,7 @@
     ],
 
     "pc-jars": [
+		["041009","this version fixes summon health problem", 0],
 		["041008","this version fixes layout problem in stage edit page", 0],
 		["041007","this version fixes bc stages multiplication bug", 0],
 		["041006","this version re-enables export button and fix icon bug", 0],
