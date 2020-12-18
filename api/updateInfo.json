@@ -17,6 +17,7 @@
 		{"id":"100001","desc":"BC 10.0 enemy icons and catfruit images","ver":"050000","type":"android"},
 		{"id":"100002","desc":"Improve toxic icon, fix castle images","ver":"050000","type":"core"},
 		{"id":"100100","desc":"BC 10.1 contents", "ver":"050000","type":"core"},
+		{"id":"100101","desc":"BC 10.1 enemy icons", "ver":"050000","type":"android"},
 		{"id":"100102","desc":"Cannon fire images", "ver":"050000","type":"core"}
     ],
 
