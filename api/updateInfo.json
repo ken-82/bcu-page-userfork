@@ -78,7 +78,9 @@
         "gson-2.8.6.jar"
     ],
 
-    "pc_update":[],
+    "pc_update":[
+		{"ver":050002,"desc":"This version adds lineup clone button", "isRelease":true}
+	],
     
     "android_update":[],
 
