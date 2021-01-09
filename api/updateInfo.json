@@ -79,7 +79,7 @@
     ],
 
     "pc_update":[
-		{"ver":050002,"desc":"This version adds lineup clone button", "isRelease":true}
+		{"ver":50002,"desc":"This version adds lineup clone button", "isRelease":true}
 	],
     
     "android_update":[],
