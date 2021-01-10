@@ -81,7 +81,8 @@
 
     "pc_update":[
 		{"ver":50002,"desc":"This version adds lineup clone button.", "isRelease":true},
-		{"ver":50003,"desc":"This version adds attack smoke effect, and fixes minor bugs", "isRelease":true}
+		{"ver":50003,"desc":"This version adds attack smoke effect, and fixes minor bugs", "isRelease":true},
+		{"ver":50004,"desc":"This version fixes stage head table, improves omni text, and surge immune effct anim", "isRelease":true}
 	],
     
     "apk_update":[
