@@ -80,7 +80,8 @@
     ],
 
     "pc_update":[
-		{"ver":50002,"desc":"This version adds lineup clone button.", "isRelease":true}
+		{"ver":50002,"desc":"This version adds lineup clone button.", "isRelease":true},
+		{"ver":50003,"desc":"This version adds attack smoke effect, and fixes minor bugs", "isRelease":true}
 	],
     
     "android_update":[],
