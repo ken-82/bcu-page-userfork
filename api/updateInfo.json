@@ -84,7 +84,7 @@
 		{"ver":50003,"desc":"This version adds attack smoke effect, and fixes minor bugs", "isRelease":true}
 	],
     
-    "apk_release":[
+    "apk_update":[
 		{"ver":"0.15.0","isTest":false},
 		{"ver":"0.15.1","isTest":true}
 	],
