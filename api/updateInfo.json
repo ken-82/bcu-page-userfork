@@ -81,7 +81,8 @@
 
     "pc_update":[
 		{"ver":50002,"desc":"This version adds lineup clone button.", "isRelease":true},
-		{"ver":50003,"desc":"This version adds attack smoke effect, and fixes minor bugs", "isRelease":true}
+		{"ver":50003,"desc":"This version adds attack smoke effect, and fixes minor bugs.", "isRelease":true},
+		{"ver":50004,"desc":"This version improves omni range typo, and fixes surge immine effect anim.","isRelease":true}
 	],
     
     "apk_update":[
