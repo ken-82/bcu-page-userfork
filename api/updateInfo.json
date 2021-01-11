@@ -80,6 +80,7 @@
     ],
 
     "pc_update":[
+		{"ver":50006","desc":"This version fixes update checking problem, and updates required asset list.", "isRelease":true},
 		{"ver":50005,"desc":"This version fixes enemy base time stop animation, and allow user to customize minimum respawn.", "isRelease":true},		
 		{"ver":50004,"desc":"This version fixes stage head table, improves omni text, and surge immune effct anim.", "isRelease":true},
 		{"ver":50003,"desc":"This version adds attack smoke effect, and fixes minor bugs", "isRelease":true},
