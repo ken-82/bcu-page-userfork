@@ -96,7 +96,8 @@
     "apk_update":[
 		{"ver":"0.15.0","isTest":false},
 		{"ver":"0.15.1","isTest":false},
-		{"ver":"0.15.2","isTest":false}
+		{"ver":"0.15.2","isTest":false},
+		{"ver":"0.15.3","isTest":false}
 	],
 
     "text_update":0,
