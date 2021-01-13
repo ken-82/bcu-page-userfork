@@ -21,7 +21,11 @@
 		{"id":"100102","desc":"Cannon fire images", "ver":"050000","type":"core"},
 		{"id":"100103","desc":"BC 10.1 talent data", "ver":"050000","type":"core"},
 		{"id":"100104","desc":"Add attack smoke, and improve barrier anim", "ver":"050001","type":"core"},
+<<<<<<< HEAD
 		{"id":"100200","desc":"Test","ver":"050002","type":"core"}
+=======
+	    {"id":"100200","desc":"BC 10.2 contents", "ver":"050002","type":"core"}
+>>>>>>> e52bd1e5948b9504bdbf686f51ebfd7f2108e132
     ],
 
     "pc_libs": [
