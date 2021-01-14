@@ -83,6 +83,7 @@
     ],
 
     "pc_update":[
+		{"ver":50010,"desc":"This version fixes anim rename crash, and enemy attack crash.","isRelease":true},
 		{"ver":50009,"desc":"This version handles 10.2 soul data.","isRelease":true},
 		{"ver":50008,"desc":"This version fixes jar update checking problem, and implements BC 10.2 contents.","isRelease":true},
 		{"ver":50007,"desc":"This version fixes replay saving crash, and makes BCU sav BG top data.","isRelease":true},
