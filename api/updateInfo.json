@@ -83,6 +83,7 @@
     ],
 
     "pc_update":[
+		{"ver":50012,"desc":"This version fixes animation length handling, catle order, and sets default soul for custom entities.","isRelease":true},
         {"ver":50011,"desc":"This version sorts the animation list by name.","isRelease":true},
 		{"ver":50010,"desc":"This version fixes anim rename crash, and enemy attack crash.","isRelease":true},
 		{"ver":50009,"desc":"This version handles 10.2 soul data.","isRelease":true},
