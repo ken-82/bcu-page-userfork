@@ -83,6 +83,7 @@
     ],
 
     "pc_update":[
+        {"ver":50011,"desc":"This version sorts the animation list by name.","isRelease":true},
 		{"ver":50010,"desc":"This version fixes anim rename crash, and enemy attack crash.","isRelease":true},
 		{"ver":50009,"desc":"This version handles 10.2 soul data.","isRelease":true},
 		{"ver":50008,"desc":"This version fixes jar update checking problem, and implements BC 10.2 contents.","isRelease":true},
@@ -91,7 +92,7 @@
 		{"ver":50005,"desc":"This version fixes enemy base time stop animation, and allow user to customize minimum respawn.", "isRelease":true},		
 		{"ver":50004,"desc":"This version fixes stage head table, improves omni text, and surge immune effct anim.", "isRelease":true},
 		{"ver":50003,"desc":"This version adds attack smoke effect, and fixes minor bugs", "isRelease":true},
-		{"ver":50002,"desc":"This version adds lineup clone button.", "isRelease":true},
+		{"ver":50002,"desc":"This version adds lineup clone button.", "isRelease":true}
 	],
     
     "apk_update":[
