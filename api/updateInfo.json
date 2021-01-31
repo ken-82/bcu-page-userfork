@@ -85,6 +85,7 @@
     ],
 
     "pc_update":[
+		{"ver":50015,"desc":"This version reorders trait, and fixes some bugs. Please backup your contents before downloading this jar file.","isRelease":true},
         {"ver":50014,"desc":"This version adds respawn visual, and improves accuracy of animations, boss shockwave, and revive.","isRelease":true},
 		{"ver":50013,"desc":"This version adds heal effect and fixes several bugs","isRelease":true},
 		{"ver":50012,"desc":"This version fixes animation length handling, catle order, and sets default soul for custom entities.","isRelease":true},
