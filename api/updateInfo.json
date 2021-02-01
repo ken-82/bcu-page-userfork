@@ -111,7 +111,8 @@
 		{"ver":"0.15.6","isTest":false},
 		{"ver":"0.15.7","isTest":false},
 		{"ver":"0.15.8","isTest":false},
-		{"ver":"0.15.9","isTest":false}
+		{"ver":"0.15.9","isTest":false},
+		{"ver":"0.15.10","isTest":false}
 	],
 
     "text_update":0,
