@@ -25,7 +25,8 @@
 	    {"id":"100200","desc":"BC 10.2 contents", "ver":"050002","type":"core"},
 		{"id":"100201","desc":"BC 10.2 soul/bg data", "ver":"050002","type":"core"},
 		{"id":"100202","desc":"BC 10.2 medal, medal data","ver":"050002","type":"android"},
-		{"id":"100203","desc":"Healing effect","ver":"050003","type":"core"}
+		{"id":"100203","desc":"Healing effect","ver":"050003","type":"core"},
+	    {"id":"100204","desc":"Changes to relic tyrant in 10.2 global","ver":"050003","type":"core"}
     ],
 
     "pc_libs": [
