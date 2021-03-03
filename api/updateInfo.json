@@ -29,7 +29,8 @@
 	    {"id":"100204","desc":"Changes to relic tyrant in 10.2 global","ver":"050003","type":"core"},
 		{"id":"100300","desc":"BC 10.3 contents", "ver":"050100", "type":"core"},
 		{"id":"100301","desc":"BC 10.3 enemy icons", "ver":"050100","type":"android"},
-		{"id":"100302","desc":"Medal icons for global version","ver":"050101","type":"bot"}
+		{"id":"100302","desc":"Medal icons for global version","ver":"050101","type":"bot"},
+        {"id":"100303","desc":"Update knockback animation","ver":"050101","type":"core"}
     ],
 
     "pc_libs": [
