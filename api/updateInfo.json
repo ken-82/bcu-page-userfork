@@ -31,7 +31,7 @@
 		{"id":"100301","desc":"BC 10.3 enemy icons", "ver":"050100","type":"android"},
 		{"id":"100302","desc":"Medal icons for global version","ver":"050101","type":"bot"},
         {"id":"100303","desc":"Update knockback animation","ver":"050101","type":"core"},
-		{"id":"100304","desc":"Update Drunken Backrub stage changes","ver":"050000","type":"core"}
+		{"id":"100304","desc":"Update Drunken Backrub stage changes","ver":"050101","type":"core"}
     ],
 
     "pc_libs": [
