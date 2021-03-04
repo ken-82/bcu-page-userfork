@@ -90,6 +90,7 @@
     ],
 
     "pc_update":[
+		{"ver":50018,"desc":"This version fixes several anim/frame problem, swap mouse button control in stage edit table, and fixes few bugs.", "isRelease":true},
 		{"ver":50017,"desc":"This version fixes enemy stat crash in stage info page.", "isRelease":true},
 		{"ver":50016,"desc":"This version fixes many bugs, improves battle, and enemy selection in stage edit table.","isRelease":true},
 		{"ver":50015,"desc":"This version reorders trait, and fixes some bugs. Please backup your contents before downloading this jar file.","isRelease":true},
