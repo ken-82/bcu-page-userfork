@@ -91,6 +91,7 @@
     ],
 
     "pc_update":[
+		{"ver":50019,"desc":"This version fixes stage reading crash","isRelease":true},
 		{"ver":50018,"desc":"This version fixes several anim/frame problem, swap mouse button control in stage edit table, and fixes few bugs.", "isRelease":true},
 		{"ver":50017,"desc":"This version fixes enemy stat crash in stage info page.", "isRelease":true},
 		{"ver":50016,"desc":"This version fixes many bugs, improves battle, and enemy selection in stage edit table.","isRelease":true},
@@ -123,7 +124,8 @@
 		{"ver":"0.15.9","isTest":false},
 		{"ver":"0.15.10","isTest":false},
 		{"ver":"0.15.11","isTest":false},
-		{"ver":"0.15.12","isTest":false}
+		{"ver":"0.15.12","isTest":false},
+		{"ver":"0.15.13","isTest":false}
 	],
 
     "text_update":0,
