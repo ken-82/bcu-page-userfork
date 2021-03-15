@@ -32,7 +32,8 @@
 		{"id":"100302","desc":"Medal icons for global version","ver":"050101","type":"bot"},
         {"id":"100303","desc":"Update knockback animation","ver":"050101","type":"core"},
 		{"id":"100304","desc":"Update Drunken Backrub stage changes","ver":"050101","type":"core"},
-		{"id":"100305","desc":"EoC global ver. castles","ver":"050200","type":"bot"}
+		{"id":"100305","desc":"EoC global ver. castles","ver":"050200","type":"bot"},
+		{"id":"100401","desc":"New battle icons","ver":"050300","type":"core"}
     ],
 
     "pc_libs": [
