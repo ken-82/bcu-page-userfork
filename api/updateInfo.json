@@ -93,6 +93,7 @@
     ],
 
     "pc_update":[
+		{"ver":50021,"desc":"This version fixes some bugs, applies new battle layout, improves asset browser, and applies new atk/hp formula.", "isRelease":true},
         {"ver":50020,"desc":"This version fixes edit button and changes TBA definition. Please backup your contents before downloading jar.","isRelease":true},
 		{"ver":50019,"desc":"This version fixes stage reading crash","isRelease":true},
 		{"ver":50018,"desc":"This version fixes several anim/frame problem, swap mouse button control in stage edit table, and fixes few bugs.", "isRelease":true},
@@ -129,7 +130,8 @@
 		{"ver":"0.15.11","isTest":false},
 		{"ver":"0.15.12","isTest":false},
 		{"ver":"0.15.13","isTest":false},
-		{"ver":"0.15.14","isTest":false}
+		{"ver":"0.15.14","isTest":false},
+		{"ver":"0.15.15","isTest":false}
 	],
 
     "text_update":0,
