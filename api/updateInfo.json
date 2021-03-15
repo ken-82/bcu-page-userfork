@@ -35,7 +35,7 @@
 		{"id":"100305","desc":"EoC global ver. castles","ver":"050200","type":"bot"},
 		{"id":"100400","desc":"BC 10.4 contents","ver":"050300","type":"core"},
 	    	{"id":"100401","desc":"New battle icons","ver":"050300","type":"core"},
-		{"id":"100402","desc":"BC 10.4 enemy icons","ver":"050400","type":"android"}
+		{"id":"100402","desc":"BC 10.4 enemy icons","ver":"050300","type":"android"}
     ],
 
     "pc_libs": [
