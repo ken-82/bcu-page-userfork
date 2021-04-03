@@ -96,6 +96,7 @@
     ],
 
     "pc_update":[
+        {"ver":50023,"desc":"This version fixes cat combos and unit attack, and improves the layout of certain pages.","isRelease":true},
 		{"ver":50023,"desc":"This version fixes unit's HP problem, and reads enemy suicide ability data.","isRelease":true},
 		{"ver":50022,"desc":"This version fixes cannon button in battle.","isRelease":true},
 		{"ver":50021,"desc":"This version fixes some bugs, applies new battle layout, improves asset browser, and applies new atk/hp formula.", "isRelease":true},
