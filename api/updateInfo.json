@@ -98,6 +98,7 @@
     ],
 
     "pc_update":[
+		{"ver":50027,"desc":"This version fixes animation duration bug, eoc order bug, and add BC 10.5 contents.", "isRelease":true},
 		{"ver":50026,"desc":"This version fixes some animation duration problem, and pack data displaying problem.", "isRelease":true},
         {"ver":50025,"desc":"This version adds saving keybind and iron wall adjustments, and fixes stage search crashing and cat cooldown editing.","isRelease":true},
         {"ver":50024,"desc":"This version fixes cat combos and unit attack, and improves the layout of certain pages.","isRelease":true},
