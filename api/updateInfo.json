@@ -40,7 +40,8 @@
 	    {"id":"100500","desc":"BC 10.5 contents","ver":"050301","type":"core"},
 		{"id":"100501","desc":"BC 10.5 enemy icons", "ver":"050301", "type":"android"},
 		{"id":"100502","desc":"Collapse Checker stage change", "ver":"050301", "type":"core"},
-	    {"id":"100503","desc":"Update outdated assets", "ver":"050301", "type":"core"}
+	    {"id":"100503","desc":"Update outdated assets", "ver":"050301", "type":"core"},
+	    {"id":"100504","desc":"Fix bahamut stats", "ver":"050301", "type":"core"}
     ],
 
     "pc_libs": [
