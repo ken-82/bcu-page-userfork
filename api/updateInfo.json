@@ -43,7 +43,8 @@
 	    {"id":"100503","desc":"Update outdated assets", "ver":"050301", "type":"core"},
 	    {"id":"100504","desc":"Fix bahamut stats", "ver":"050301", "type":"core"},
         {"id":"100505","desc":"Fix Benkei animation","ver":"050301","type":"core"},
-		{"id":"100506","desc":"Fix unit 353 true form animation","ver":"050301","type":"core"}
+		{"id":"100506","desc":"Fix unit 353 true form animation","ver":"050301","type":"core"},
+	    {"id":"100507","desc":"Fix unit 320 true form animation","ver":"050301","type":"core"}
     ],
 
     "pc_libs": [
