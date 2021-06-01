@@ -47,7 +47,8 @@
 	    {"id":"100507","desc":"Fix unit 320 true form animation","ver":"050301","type":"core"},
         {"id":"100508","desc":"Fix legend quest asset","ver":"050301","type":"core"},
 		{"id":"100509","desc":"Fix enemy 448 animation","ver":"050301","type":"core"},
-	    {"id":"100600","desc":"BC 10.6 contents","ver":"050301","type":"core"}
+	    {"id":"100600","desc":"BC 10.6 contents","ver":"050301","type":"core"},
+		{"id":"100601","desc":"BC 10.6 enemy icons and medal","ver":"050301","type":"android"}
     ],
 
     "pc_libs": [
