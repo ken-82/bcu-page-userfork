@@ -47,9 +47,9 @@
 	    {"id":"100507","desc":"Fix unit 320 true form animation","ver":"050301","type":"core"},
         {"id":"100508","desc":"Fix legend quest asset","ver":"050301","type":"core"},
 		{"id":"100509","desc":"Fix enemy 448 animation","ver":"050301","type":"core"},
-	    {"id":"100600","desc":"BC 10.6 contents","ver":"050301","type":"core"},
-		{"id":"100601","desc":"BC 10.6 enemy icons and medal","ver":"050301","type":"android"},
-		{"id":"100602","desc":"BC 10.6 medal data","ver":"050301","type":"android"}
+	    {"id":"100600","desc":"BC 10.6 contents","ver":"050400","type":"core"},
+		{"id":"100601","desc":"BC 10.6 enemy icons and medal","ver":"050400","type":"android"},
+		{"id":"100602","desc":"BC 10.6 medal data","ver":"050400","type":"android"}
     ],
 
     "pc_libs": [
@@ -68,7 +68,7 @@
         "jcodec-0.2.3.jar",
         "json-20180813.jar",
         "google-api-services-drive-v3-rev105-1.23.0.jar",
-        "httpclient-4.5.6.jar",
+		"httpclient-4.5.13.jar",
         "gluegen-rt-2.3.2-natives-android-armv6.jar",
         "vorbisspi-1.0.3.3.jar",
         "gluegen-rt-main-2.3.2.jar",
@@ -83,7 +83,7 @@
         "jogl-all-2.3.2.jar",
         "gluegen-rt-2.3.2-natives-linux-amd64.jar",
         "jogl-all-2.3.2-natives-linux-armv6hf.jar",
-        "commons-io-2.6.jar",
+		"commons-io-2.7.jar",
         "jetty-6.1.26.jar",
         "commons-codec-1.10.jar",
         "tritonus-share-0.3.7.4.jar",
