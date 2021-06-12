@@ -109,6 +109,7 @@
     ],
 
     "pc_update":[
+		{"ver":50030,"desc":"This version fixes several bugs, and dynamically read cannon level data, add modification 52.","isRelease":true},
 		{"ver":50029,"desc":"This version fixes several bugs, and adds animation grouping feature.","isRelease":true},
 		{"ver":50028,"desc":"This version fixes ability explanation displays, and implement parent pack password system.", "isRlease":true},
 		{"ver":50027,"desc":"This version fixes animation duration bug, eoc order bug, and add BC 10.5 contents.", "isRelease":true},
@@ -161,7 +162,8 @@
 		{"ver":"0.15.18","isTest":false},
 		{"ver":"0.15.19","isTest":false},
 		{"ver":"0.15.20","isTest":false},
-		{"ver":"0.15.21","isTest":false}
+		{"ver":"0.15.21","isTest":false},
+		{"ver":"0.15.22","isTest":false}
 	],
 
     "text_update":0,
