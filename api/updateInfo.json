@@ -109,7 +109,7 @@
     ],
 
     "pc_update":[
-		{"veR":50032,"desc":"This version fixes attack bug, and boss minimum distance bug.","isRelease":true},
+		{"ver":50032,"desc":"This version fixes attack bug, and boss minimum distance bug.","isRelease":true},
 		{"ver":50031,"desc":"This version fixes anim rename bugs, updates suicide ability attack mechanisms.","isRelease":true},
 		{"ver":50030,"desc":"This version fixes several bugs, and dynamically read cannon level data, add modification 52.","isRelease":true},
 		{"ver":50029,"desc":"This version fixes several bugs, and adds animation grouping feature.","isRelease":true},
