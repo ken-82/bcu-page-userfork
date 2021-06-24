@@ -49,7 +49,8 @@
 		{"id":"100509","desc":"Fix enemy 448 animation","ver":"050301","type":"core"},
 	    {"id":"100600","desc":"BC 10.6 contents","ver":"050400","type":"core"},
 		{"id":"100601","desc":"BC 10.6 enemy icons and medal","ver":"050400","type":"android"},
-		{"id":"100602","desc":"BC 10.6 medal data","ver":"050400","type":"android"}
+		{"id":"100602","desc":"BC 10.6 medal data","ver":"050400","type":"android"},
+		{"id":"100603","desc":"New Heal/Venom type 0 effect animation","ver":"050401","type":"core"}
     ],
 
     "pc_libs": [
