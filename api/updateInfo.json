@@ -110,6 +110,7 @@
     ],
 
     "pc_update":[
+		{"ver":50034,"desc":"This version adds 4 new languages, and fixes few bugs.","isRelease":true},
 		{"ver":50033,"desc":"This version adds new Heal/Venom type 0 effect animation.","isRelease":true},
 		{"ver":50032,"desc":"This version fixes attack bug, and boss minimum distance bug.","isRelease":true},
 		{"ver":50031,"desc":"This version fixes anim rename bugs, updates suicide ability attack mechanisms.","isRelease":true},
@@ -171,6 +172,7 @@
 		{"ver":"0.15.23","isTest":false},
 		{"ver":"0.15.24","isTest":false},
 		{"ver":"0.15.25","isTest":false},
+		{"ver":"0.15.26","isTest":false},
 		{"ver":"0.15.26","isTest":false}
 	],
 
