@@ -50,7 +50,8 @@
 	    {"id":"100600","desc":"BC 10.6 contents","ver":"050400","type":"core"},
 		{"id":"100601","desc":"BC 10.6 enemy icons and medal","ver":"050400","type":"android"},
 		{"id":"100602","desc":"BC 10.6 medal data","ver":"050400","type":"android"},
-		{"id":"100603","desc":"New Heal/Venom type 0 effect animation","ver":"050401","type":"core"}
+		{"id":"100603","desc":"New Heal/Venom type 0 effect animation","ver":"050401","type":"core"},
+		{"id":"100700","desc":"BC 10.7 contents","ver":"050402","type":"core"}
     ],
 
     "pc_libs": [
@@ -180,5 +181,5 @@
 
     "text_update":0,
 
-    "music": 134
+    "music": 136
 }
