@@ -111,6 +111,7 @@
     ],
 
     "pc_update":[
+		{"ver":50036,"desc":"This version adds 10.7 contents, change unit cost mechanisms, and improves few things.", "isRelease":true},
 		{"ver":50035,"desc":"This version adds full BC names for 4 new locales, and fixes few bugs.","isRelease":true},
 		{"ver":50034,"desc":"This version adds 4 new languages, and fixes few bugs.","isRelease":true},
 		{"ver":50033,"desc":"This version adds new Heal/Venom type 0 effect animation.","isRelease":true},
@@ -176,7 +177,8 @@
 		{"ver":"0.15.25","isTest":false},
 		{"ver":"0.15.26","isTest":false},
 		{"ver":"0.15.27","isTest":false},
-		{"ver":"0.15.28","isTest":false}
+		{"ver":"0.15.28","isTest":false},
+		{"ver":"0.15.29","isTest":false}
 	],
 
     "text_update":0,
