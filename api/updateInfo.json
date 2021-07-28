@@ -52,7 +52,8 @@
 		{"id":"100602","desc":"BC 10.6 medal data","ver":"050400","type":"android"},
 		{"id":"100603","desc":"New Heal/Venom type 0 effect animation","ver":"050401","type":"core"},
 		{"id":"100700","desc":"BC 10.7 contents","ver":"050402","type":"core"},
-		{"id":"100701","desc":"Fix new bg crash","ver":"050402","type":"core"}
+		{"id":"100701","desc":"Fix new bg crash","ver":"050402","type":"core"},
+		{"id":"100703","desc":"BC 10.7 difficulty star", "ver":"050403", "type":"android"}
     ],
 
     "pc_libs": [
