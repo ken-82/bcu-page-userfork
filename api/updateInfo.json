@@ -114,6 +114,7 @@
     ],
 
     "pc_update":[
+        {"ver":50041,"desc":"This version fixes demon shield damage handling.","isRelease":true},
 		{"ver":50040,"desc":"This version fixes trait setting data for custom entity.","isRelease":true},
 		{"ver":50039,"desc":"This version adds 10.8 contents and abilities.", "isRelease":true},
 		{"ver":50038,"desc":"This version fixes more new orb bugs.","isRelease":true},
