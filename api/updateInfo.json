@@ -114,6 +114,7 @@
     ],
 
     "pc_update":[
+		{"ver":50039,"desc":"This version adds 10.8 contents and abilities.", "isRelease":true},
 		{"ver":50038,"desc":"This version fixes more new orb bugs.","isRelease":true},
 		{"ver":50037,"desc":"This version fixes orb bug, init money combo bug, and improves bg viewer.","isRelease":true},
 		{"ver":50036,"desc":"This version adds 10.7 contents, change unit cost mechanisms, and improves few things.", "isRelease":true},
