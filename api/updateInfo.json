@@ -53,7 +53,8 @@
 		{"id":"100603","desc":"New Heal/Venom type 0 effect animation","ver":"050401","type":"core"},
 		{"id":"100700","desc":"BC 10.7 contents","ver":"050402","type":"core"},
 		{"id":"100701","desc":"Fix new bg crash","ver":"050402","type":"core"},
-		{"id":"100703","desc":"BC 10.7 difficulty star", "ver":"050403", "type":"android"}
+		{"id":"100703","desc":"BC 10.7 difficulty star", "ver":"050403", "type":"android"},
+		{"id":"100800","desc":"BC 10.8 contents", "ver":"050500","type":"core"}
     ],
 
     "pc_libs": [
