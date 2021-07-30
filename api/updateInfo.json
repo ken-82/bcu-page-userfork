@@ -116,6 +116,7 @@
     ],
 
     "pc_update":[
+		{"ver":50042,"desc":"This version adds demon shield icon, and improves kb mechanisms.","isRelease":true},
         {"ver":50041,"desc":"This version fixes demon shield damage handling.","isRelease":true},
 		{"ver":50040,"desc":"This version fixes trait setting data for custom entity.","isRelease":true},
 		{"ver":50039,"desc":"This version adds 10.8 contents and abilities.", "isRelease":true},
@@ -193,7 +194,8 @@
 		{"ver":"0.15.31","isTest":false},
 		{"ver":"0.15.32","isTest":false},
 		{"ver":"0.15.33","isTest":false},
-		{"ver":"0.15.34","isTest":false}
+		{"ver":"0.15.34","isTest":false},
+		{"ver":"0.15.35","isTest":false}
 	],
 
     "text_update":0,
