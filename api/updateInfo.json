@@ -57,7 +57,8 @@
 		{"id":"100800","desc":"BC 10.8 contents", "ver":"050500","type":"core"},
 		{"id":"100801","desc":"BC 10.8 enemy icon, medal", "ver":"050500","type":"android"},
 		{"id":"100802","desc":"BC 10.8 dmeon shield icon","ver":"050500","type":"core"},
-		{"id":"100803","desc":"BC enemy castle data","ver":"050600","type":"core"}
+		{"id":"100803","desc":"BC enemy castle data","ver":"050600","type":"core"},
+		{"id":"100803","desc":"New Venom type 1 effect animation","ver":"050600","type":"core"}
     ],
 
     "pc_libs": [
