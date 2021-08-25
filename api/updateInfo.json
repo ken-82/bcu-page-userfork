@@ -118,6 +118,7 @@
     ],
 
     "pc_update":[
+		{"ver":50043,"desc":"This version implements more proper mechanisms, allows custom castle to have custom boss spawn point, and fixes few bugs.","isRelease":true},
 		{"ver":50042,"desc":"This version adds demon shield icon, and improves kb mechanisms.","isRelease":true},
         {"ver":50041,"desc":"This version fixes demon shield damage handling.","isRelease":true},
 		{"ver":50040,"desc":"This version fixes trait setting data for custom entity.","isRelease":true},
@@ -197,7 +198,8 @@
 		{"ver":"0.15.32","isTest":false},
 		{"ver":"0.15.33","isTest":false},
 		{"ver":"0.15.34","isTest":false},
-		{"ver":"0.15.35","isTest":false}
+		{"ver":"0.15.35","isTest":false},
+		{"ver":"0.15.36","isTest":false}
 	],
 
     "text_update":0,
