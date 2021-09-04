@@ -59,7 +59,8 @@
 		{"id":"100802","desc":"BC 10.8 dmeon shield icon","ver":"050500","type":"core"},
 		{"id":"100803","desc":"BC enemy castle data","ver":"050600","type":"core"},
 		{"id":"100804","desc":"New Venom type 1 effect animation","ver":"050600","type":"core"},
-		{"id":"100900","desc":"BC 10.9 contents","ver":"050700","type":"core"}
+		{"id":"100900","desc":"BC 10.9 contents","ver":"050700","type":"core"},
+		{"id":"100901","desc":"BC 10.9 enemy icon, medal, catfruit","ver":"050700","type":"android"}
     ],
 
     "pc_libs": [
