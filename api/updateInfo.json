@@ -63,7 +63,8 @@
 		{"id":"100901","desc":"BC 10.9 enemy icon, medal, catfruit","ver":"050700","type":"android"},
 		{"id":"100902","desc":"Fix holy blast animation","ver":"050700","type":"core"},
 		{"id":"100903","desc":"BC 10.9 global medal","ver":"050700","type":"bot"},
-		{"id":"100904","desc":"Hard-coded bg effect data","ver":"060100","type":"core"}
+		{"id":"100904","desc":"Hard-coded bg effect data","ver":"060100","type":"core"},
+		{"id":"100905","desc":"Add bg with new format","ver":"060100","type":"core"}
     ],
 
     "pc_libs": [
