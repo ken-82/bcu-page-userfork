@@ -65,7 +65,7 @@
 		{"id":"100903","desc":"BC 10.9 global medal","ver":"050700","type":"bot"},
 		{"id":"100904","desc":"Hard-coded bg effect data","ver":"060100","type":"core"},
 		{"id":"100905","desc":"Add bg with new format","ver":"060100","type":"core"},
-	    {"id":"101000","desc":"BC 10.10 contents","ver":"060100","type":"core"}
+	    {"id":"101000","desc":"BC 10.10 contents","ver":"050700","type":"core"}
     ],
 
     "pc_libs": [
