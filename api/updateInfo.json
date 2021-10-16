@@ -129,6 +129,7 @@
     ],
 
     "pc_update":[
+		{"ver":50101,"desc":"This version fixes aku stage level restriction setting.","isRelease":true},
 		{"ver":50100,"desc":"This version adds custom trait, cat combo, talent, and many other things.","isRelease":true},
 		{"ver":50047,"desc":"This version implements proper mechanisms in battle, and fixes few bugs.","isRelease":true},
 		{"ver":50046,"desc":"This version fixes problem about enemy base kb problem and surge on death.","isRelease":true},
