@@ -129,6 +129,7 @@
     ],
 
     "pc_update":[
+		{"ver":50102,"desc":"This version fixes trait icon crash, and few minor bugs.","isRelease":true},
 		{"ver":50101,"desc":"This version fixes aku stage level restriction setting.","isRelease":true},
 		{"ver":50100,"desc":"This version adds custom trait, cat combo, talent, and many other things.","isRelease":true},
 		{"ver":50047,"desc":"This version implements proper mechanisms in battle, and fixes few bugs.","isRelease":true},
@@ -222,7 +223,8 @@
 		{"ver":"0.15.39","isTest":false},
 		{"ver":"0.15.40","isTest":false},
 		{"ver":"0.15.41","isTest":false},
-		{"ver":"0.16.0","isTest":false}
+		{"ver":"0.16.0","isTest":false},
+		{"ver":"0.16.1","isTest":false}
 	],
 
     "text_update":0,
