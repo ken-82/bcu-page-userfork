@@ -129,6 +129,7 @@
     ],
 
     "pc_update":[
+		{"ver":50100,"desc":"This version adds custom trait, cat combo, talent, and many other things.","isRelease":true},
 		{"ver":50047,"desc":"This version implements proper mechanisms in battle, and fixes few bugs.","isRelease":true},
 		{"ver":50046,"desc":"This version fixes problem about enemy base kb problem and surge on death.","isRelease":true},
 		{"ver":50045,"desc":"This version adds 10.9 contents, and fixes few bugs.","isRelease":true},
@@ -219,7 +220,8 @@
 		{"ver":"0.15.38","isTest":false},
 		{"ver":"0.15.39","isTest":false},
 		{"ver":"0.15.40","isTest":false},
-		{"ver":"0.15.41","isTest":false}
+		{"ver":"0.15.41","isTest":false},
+		{"ver":"0.16.0","isTest":false}
 	],
 
     "text_update":0,
