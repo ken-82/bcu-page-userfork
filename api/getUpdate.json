@@ -196,6 +196,7 @@
     ],
 
     "pc-jars": [
+		["050100","this version adds many custom contents, and new BC data",1],
 		["041009","this version fixes summon health problem", 0],
 		["041008","this version fixes layout problem in stage edit page", 0],
 		["041007","this version fixes bc stages multiplication bug", 0],
@@ -219,8 +220,7 @@
         ["040903","this version fixes music bug and summon bug",1],
         ["040902","this version add 9.3 data",1],
         ["040901","this version add volcano attack and add poison and volcano to custom abilities",1],
-        ["040900","this version adds new server address",1],
-		["050100","this version adds many custom contents, and new BC data",1]
+        ["040900","this version adds new server address",1]
     ],
 
     "cal": 1,
