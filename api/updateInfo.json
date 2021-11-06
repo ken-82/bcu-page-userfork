@@ -69,7 +69,9 @@
 		{"id":"100907","desc":"Fix enemy png","ver":"060100","type":"core"},
 	    {"id":"101000","desc":"BC 10.10 contents","ver":"050700","type":"core"},
 		{"id":"101001","desc":"BC 10.10 enemy icon","ver":"050700","type":"android"},
-		{"id":"101002","desc":"BCU custom ability icons/animations","ver":"060100","type":"core"}
+		{"id":"101002","desc":"BCU custom ability icons/animations","ver":"060100","type":"core"},
+		{"id":"110000","desc":"BCU 11.0 contents","ver":"060101","type":"core"},
+		{"id":"110001","desc":"BCI 11.0 enemy icon, medal, catfruit","ver":"060101","type":"android"}
     ],
 
     "pc_libs": [
