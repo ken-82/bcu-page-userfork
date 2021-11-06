@@ -131,6 +131,7 @@
     ],
 
     "pc_update":[
+		{"ver":50103,"desc":"This version adds 11.0 BC contents and fixes few bugs.","isRelease":true},
 		{"ver":50102,"desc":"This version fixes trait icon crash, and few minor bugs.","isRelease":true},
 		{"ver":50101,"desc":"This version fixes aku stage level restriction setting.","isRelease":true},
 		{"ver":50100,"desc":"This version adds custom trait, cat combo, talent, and many other things.","isRelease":true},
@@ -179,8 +180,7 @@
 		{"ver":50005,"desc":"This version fixes enemy base time stop animation, and allow user to customize minimum respawn.", "isRelease":true},		
 		{"ver":50004,"desc":"This version fixes stage head table, improves omni text, and surge immune effct anim.", "isRelease":true},
 		{"ver":50003,"desc":"This version adds attack smoke effect, and fixes minor bugs", "isRelease":true},
-		{"ver":50002,"desc":"This version adds lineup clone button.", "isRelease":true},
-		{"ver":50003,"desc":"This version adds 11.0 BC contents and fixes few bugs.","isRelease":true}
+		{"ver":50002,"desc":"This version adds lineup clone button.", "isRelease":true}
 	],
     
     "apk_update":[
