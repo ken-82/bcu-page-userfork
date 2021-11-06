@@ -132,6 +132,7 @@
     ],
 
     "pc_update":[
+		{"ver":50104,"desc":"This version adds 11.0 BC soul.","isRelease":true},
 		{"ver":50103,"desc":"This version adds 11.0 BC contents and fixes few bugs.","isRelease":true},
 		{"ver":50102,"desc":"This version fixes trait icon crash, and few minor bugs.","isRelease":true},
 		{"ver":50101,"desc":"This version fixes aku stage level restriction setting.","isRelease":true},
@@ -229,7 +230,8 @@
 		{"ver":"0.15.41","isTest":false},
 		{"ver":"0.16.0","isTest":false},
 		{"ver":"0.16.1","isTest":false},
-		{"ver":"0.16.2","isTest":false}
+		{"ver":"0.16.2","isTest":false},
+		{"ver":"0.16.3","isTest":false}
 	],
 
     "text_update":0,
