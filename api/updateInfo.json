@@ -73,7 +73,8 @@
 		{"id":"110000","desc":"BC 11.0 contents","ver":"060101","type":"core"},
 		{"id":"110001","desc":"BC 11.0 enemy icon, medal, catfruit","ver":"060101","type":"android"},
 		{"id":"110002","desc":"BC 11.0 missing stages","ver":"060101","type":"core"},
-		{"id":"110003","desc":"PackPack gacha data","ver":"060101","type":"bot"}
+		{"id":"110003","desc":"PackPack gacha data","ver":"060101","type":"bot"},
+	    	{"id":"110100","desc":"BC 11.1 contents","ver":"060101","type":"core"}
     ],
 
     "pc_libs": [
