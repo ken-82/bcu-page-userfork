@@ -137,7 +137,8 @@
     ],
 
     "pc_update":[
-		{"ver":50105,"desc":"This version adds unit deploy butotn delay, and fixes bugs","isRelease":true},
+		{"ver":50106,"desc":"This version fixes few bugs.","isRelease":true},
+		{"ver":50105,"desc":"This version adds unit deploy butotn delay, and fixes bugs.","isRelease":true},
 		{"ver":50104,"desc":"This version adds 11.0 BC soul.","isRelease":true},
 		{"ver":50103,"desc":"This version adds 11.0 BC contents and fixes few bugs.","isRelease":true},
 		{"ver":50102,"desc":"This version fixes trait icon crash, and few minor bugs.","isRelease":true},
