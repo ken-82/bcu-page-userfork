@@ -77,7 +77,10 @@
 	    {"id":"110100","desc":"BC 11.1 contents","ver":"060101","type":"core"},
 		{"id":"110101","desc":"New year neneko tf","ver":"060101","type":"core"},
 		{"id":"110102","desc":"BC 11.1 enemy icon","ver":"060101","type":"android"},
-		{"id":"110103","desc":"BC 11.1 gacha/mission data","ver":"060101","type":"bot"}
+		{"id":"110103","desc":"BC 11.1 gacha/mission data","ver":"060101","type":"bot"},
+		{"id":"110200","desc":"BC 11.2 contents","ver":"060200","type":"core"},
+		{"id":"110201","desc":"BC 11.2 enemy icon","ver":"060200","type":"android"},
+		{"id":"110202","desc":"BC 11.2 gacha/mission data","ver":"060200","type":"bot"}
     ],
 
     "pc_libs": [
@@ -244,5 +247,5 @@
 
     "text_update":0,
 
-    "music": 145
+    "music": 146
 }
