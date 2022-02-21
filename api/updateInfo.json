@@ -80,7 +80,9 @@
 		{"id":"110103","desc":"BC 11.1 gacha/mission data","ver":"060101","type":"bot"},
 		{"id":"110200","desc":"BC 11.2 contents","ver":"060200","type":"core"},
 		{"id":"110201","desc":"BC 11.2 enemy icon","ver":"060200","type":"android"},
-		{"id":"110202","desc":"BC 11.2 gacha/mission data","ver":"060200","type":"bot"}
+		{"id":"110202","desc":"BC 11.2 gacha/mission data","ver":"060200","type":"bot"},
+		{"id":"110300","desc":"BC 11.3 contents","ver":"060300","type":"core"},
+		{"id":"110301","desc":"BC 11.3 enemy icon","ver":"060300","type":"android"}
     ],
 
     "pc_libs": [
