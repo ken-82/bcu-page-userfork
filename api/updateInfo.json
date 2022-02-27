@@ -143,6 +143,7 @@
     ],
 
     "pc_update":[
+		{"ver":50110,"desc":"This version fixes surge immunity bug and compare page crash.","isRelease":true},
 		{"ver":50109,"desc":"This version adds 11.3 contents, and fixes a few bugs.","isRelease":true},
 		{"ver":50108,"desc":"This version fixes lineup box displaying bug","isRelease":true},
 		{"ver":50107,"desc":"This version adds 11.2 contents, and fixes few bugs including replay bug","isRelease":true},
