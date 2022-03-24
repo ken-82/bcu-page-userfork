@@ -83,7 +83,10 @@
 		{"id":"110202","desc":"BC 11.2 gacha/mission data","ver":"060200","type":"bot"},
 		{"id":"110300","desc":"BC 11.3 contents","ver":"060300","type":"core"},
 		{"id":"110301","desc":"BC 11.3 enemy icon","ver":"060300","type":"android"},
-		{"id":"110302","desc":"BC 11.3 gacha/mission data","ver":"060300","type":"bot"}
+		{"id":"110302","desc":"BC 11.3 gacha/mission data","ver":"060300","type":"bot"},
+		{"id":"110400","desc":"BC 11.4 contents","ver":"060400","type":"core"},
+		{"id":"110401","desc":"BC 11.4 enemy icon","ver":"060400","type":"android"},
+		{"id":"110402","desc":"BC 11.4 gacha/mission data","ver":"060400","type":"bot"}
     ],
 
     "pc_libs": [
@@ -251,7 +254,8 @@
 		{"ver":"0.16.3","isTest":false},
 		{"ver":"0.16.4","isTest":false},
 		{"ver":"0.16.5","isTest":false},
-		{"ver":"0.16.6","isTest":false}
+		{"ver":"0.16.6","isTest":false},
+		{"ver":"0.16.7","isTest":false}
 	],
 
     "text_update":0,
