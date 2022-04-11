@@ -87,7 +87,8 @@
 		{"id":"110400","desc":"BC 11.4 contents","ver":"060400","type":"core"},
 		{"id":"110401","desc":"BC 11.4 enemy icon, medal","ver":"060400","type":"android"},
 		{"id":"110402","desc":"BC 11.4 gacha/mission data","ver":"060400","type":"bot"},
-		{"id":"110403","desc":"Cannon Immune Icon","ver":"060400","type":"core"}
+		{"id":"110403","desc":"Cannon Immune Icon","ver":"060400","type":"core"},
+		{"id":"110404","desc":"BG effect 019 animation data","ver":"060400","type":"core"}
     ],
 
     "pc_libs": [
