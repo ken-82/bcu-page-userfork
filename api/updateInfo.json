@@ -148,6 +148,7 @@
     ],
 
     "pc_update":[
+		{"ver":50111,"desc":"This version adds 11.3 contents, fixes several bugs, and adds various QoL features, including Multi-Language support for packs.","isRelease":true},
 		{"ver":50110,"desc":"This version fixes surge immunity bug and compare page crash.","isRelease":true},
 		{"ver":50109,"desc":"This version adds 11.3 contents, and fixes a few bugs.","isRelease":true},
 		{"ver":50108,"desc":"This version fixes lineup box displaying bug","isRelease":true},
@@ -256,7 +257,8 @@
 		{"ver":"0.16.3","isTest":false},
 		{"ver":"0.16.4","isTest":false},
 		{"ver":"0.16.5","isTest":false},
-		{"ver":"0.16.6","isTest":false}
+		{"ver":"0.16.6","isTest":false},
+		{"ver":"0.16.8","isTest":false}
 	],
 
     "text_update":0,
