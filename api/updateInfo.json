@@ -92,7 +92,7 @@
 		{"id":"110500","desc":"BC 11.5 contents","ver":"060500","type":"core"},
 		{"id":"110501","desc":"BC 11.5 enemy icons","ver":"060500","type":"android"},
 		{"id":"110502","desc":"BC 11.5 gacha/mission data","ver":"060500","type":"bot"},
-		{"id":"110503","desc":"Stage name image data","ver":"060500","type":"core"}
+		{"id":"110503","desc":"Stage name image data","ver":"060500","type":"pc"}
     ],
 
     "pc_libs": [
