@@ -91,7 +91,8 @@
 		{"id":"110404","desc":"BG effect 019 animation data","ver":"060400","type":"core"},
 		{"id":"110500","desc":"BC 11.5 contents","ver":"060500","type":"core"},
 		{"id":"110501","desc":"BC 11.5 enemy icons","ver":"060500","type":"android"},
-		{"id":"110502","desc":"BC 11.5 gacha/mission data","ver":"060500","type":"bot"}
+		{"id":"110502","desc":"BC 11.5 gacha/mission data","ver":"060500","type":"bot"},
+		{"id":"110503","desc":"Shakurel dojo stage fix","ver":"060500","type":"core"}
     ],
 
     "pc_libs": [
