@@ -94,7 +94,8 @@
 		{"id":"110502","desc":"BC 11.5 gacha/mission data","ver":"060500","type":"bot"},
 		{"id":"110503","desc":"Shakurel dojo stage fix","ver":"060500","type":"core"},
 		{"id":"110504","desc":"Money sign in battle","ver":"060501","type":"core"},
-		{"id":"110505","desc":"EX stage data","ver":"060501","type":"core"}
+		{"id":"110505","desc":"EX stage data","ver":"060501","type":"core"},
+		{"id":"110506","desc":"Chicken Cat (のべにゃん) stats fix","ver":"060501","type":"core"}
     ],
 
     "pc_libs": [
