@@ -151,7 +151,7 @@
         "google-oauth-client-1.24.1.jar",
         "servlet-api-2.5-20081211.jar",
         "annotations-13.0.jar",
-        "gson-2.8.6.jar"
+        "gson-2.8.9.jar"
     ],
 
     "pc_update":[
