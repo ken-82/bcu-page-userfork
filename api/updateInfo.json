@@ -94,7 +94,10 @@
 		{"id":"110502","desc":"BC 11.5 gacha/mission data","ver":"060500","type":"bot"},
 		{"id":"110503","desc":"Shakurel dojo stage fix","ver":"060500","type":"core"},
 		{"id":"110504","desc":"Money sign in battle","ver":"060501","type":"core"},
-		{"id":"110505","desc":"EX stage data","ver":"060501","type":"core"}
+		{"id":"110505","desc":"EX stage data","ver":"060501","type":"core"},
+		{"id":"110600","desc":"BC 11.6 contents","ver":"060500","type":"core"},
+		{"id":"110601","desc":"BC 11.6 enemy icons","ver":"060500","type":"android"},
+		{"id":"110602","desc":"BC 11.6 gacha/mission data","ver":"060500","type":"bot"}
     ],
 
     "pc_libs": [
@@ -271,5 +274,5 @@
 
     "text_update":0,
 
-    "music": 147
+    "music": 151
 }
