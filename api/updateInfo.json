@@ -95,6 +95,7 @@
 		{"id":"110503","desc":"Shakurel dojo stage fix","ver":"060500","type":"core"},
 		{"id":"110504","desc":"Money sign in battle","ver":"060501","type":"core"},
 		{"id":"110505","desc":"EX stage data","ver":"060501","type":"core"},
+		{"id":"110506","desc":"Chicken Cat (のべにゃん) stats fix","ver":"060501","type":"core"},
 		{"id":"110600","desc":"BC 11.6 contents","ver":"060500","type":"core"},
 		{"id":"110601","desc":"BC 11.6 enemy icons","ver":"060500","type":"android"},
 		{"id":"110602","desc":"BC 11.6 gacha/mission data","ver":"060500","type":"bot"}
@@ -153,7 +154,7 @@
         "google-oauth-client-1.24.1.jar",
         "servlet-api-2.5-20081211.jar",
         "annotations-13.0.jar",
-        "gson-2.8.6.jar"
+        "gson-2.8.9.jar"
     ],
 
     "pc_update":[
