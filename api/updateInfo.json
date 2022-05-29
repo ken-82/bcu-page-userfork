@@ -155,11 +155,11 @@
         "google-oauth-client-1.24.1.jar",
         "servlet-api-2.5-20081211.jar",
         "annotations-13.0.jar",
-		"gson-2.8.6.jar",
         "gson-2.8.9.jar"
     ],
 
     "pc_update":[
+		{"ver":50113,"desc":"This version adds accurate sniper item, follow-up stage, custom dojo, miscellaneous stage information, and few other features with bug fixes.","isRelease":true},
 		{"ver":50112,"desc":"This version adds 11.5 contens, fixes bugs, and adds UI/QoL improvements and a few new features.","isRelease":true},
 		{"ver":50111,"desc":"This version adds 11.4 contents, fixes several bugs, and adds various QoL features, including Multi-Language support for packs.","isRelease":true},
 		{"ver":50110,"desc":"This version fixes surge immunity bug and compare page crash.","isRelease":true},
@@ -272,7 +272,8 @@
 		{"ver":"0.16.5","isTest":false},
 		{"ver":"0.16.6","isTest":false},
 		{"ver":"0.16.8","isTest":false},
-		{"ver":"0.16.9","isTest":false}
+		{"ver":"0.16.9","isTest":false},
+		{"ver":"0.16.10","isTest":false}
 	],
 
     "text_update":0,
