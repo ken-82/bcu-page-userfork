@@ -98,7 +98,8 @@
 		{"id":"110506","desc":"Chicken Cat (のべにゃん) stats fix","ver":"060501","type":"core"},
 		{"id":"110600","desc":"BC 11.6 contents","ver":"060500","type":"core"},
 		{"id":"110601","desc":"BC 11.6 enemy icons","ver":"060500","type":"android"},
-		{"id":"110602","desc":"BC 11.6 gacha/mission data","ver":"060500","type":"bot"}
+		{"id":"110602","desc":"BC 11.6 gacha/mission data","ver":"060500","type":"bot"},
+		{"id":"110603","desc":"More BC 11.6 stage data","ver":"060500","type":"core"}
     ],
 
     "pc_libs": [
@@ -159,6 +160,7 @@
 
     "pc_update":[
 		{"ver":50114,"desc":"This version fixes bugs","isRelease":true},
+		{"ver":50113,"desc":"This version adds accurate sniper item, follow-up stage, custom dojo, miscellaneous stage information, and few other features with bug fixes.","isRelease":true},
 		{"ver":50112,"desc":"This version adds 11.5 contens, fixes bugs, and adds UI/QoL improvements and a few new features.","isRelease":true},
 		{"ver":50111,"desc":"This version adds 11.4 contents, fixes several bugs, and adds various QoL features, including Multi-Language support for packs.","isRelease":true},
 		{"ver":50110,"desc":"This version fixes surge immunity bug and compare page crash.","isRelease":true},
@@ -271,7 +273,8 @@
 		{"ver":"0.16.5","isTest":false},
 		{"ver":"0.16.6","isTest":false},
 		{"ver":"0.16.8","isTest":false},
-		{"ver":"0.16.9","isTest":false}
+		{"ver":"0.16.9","isTest":false},
+		{"ver":"0.16.10","isTest":false}
 	],
 
     "text_update":0,
