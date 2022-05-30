@@ -158,6 +158,7 @@
     ],
 
     "pc_update":[
+		{"ver":50114,"desc":"This version fixes bugs","isRelease":true},
 		{"ver":50112,"desc":"This version adds 11.5 contens, fixes bugs, and adds UI/QoL improvements and a few new features.","isRelease":true},
 		{"ver":50111,"desc":"This version adds 11.4 contents, fixes several bugs, and adds various QoL features, including Multi-Language support for packs.","isRelease":true},
 		{"ver":50110,"desc":"This version fixes surge immunity bug and compare page crash.","isRelease":true},
