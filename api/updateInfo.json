@@ -99,7 +99,8 @@
 		{"id":"110600","desc":"BC 11.6 contents","ver":"060500","type":"core"},
 		{"id":"110601","desc":"BC 11.6 enemy icons","ver":"060500","type":"android"},
 		{"id":"110602","desc":"BC 11.6 gacha/mission data","ver":"060500","type":"bot"},
-		{"id":"110603","desc":"More BC 11.6 stage data","ver":"060500","type":"core"}
+		{"id":"110603","desc":"More BC 11.6 stage data","ver":"060500","type":"core"},
+		{"id":"110604","desc":"Shakurel planet collab stage fix, update for unit castle data","ver":"060501","type":"core"}
     ],
 
     "pc_libs": [
