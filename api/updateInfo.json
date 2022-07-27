@@ -104,7 +104,8 @@
 		{"id":"110700","desc":"BC 11.7 contents","ver":"060501","type":"core"},
 		{"id":"110701","desc":"BC 11.7 enemy icons","ver":"060501","type":"android"},
 		{"id":"110702","desc":"BC 11.7 gacha/mission data","ver":"060501","type":"bot"},
-		{"id":"110703","desc":"Update orb data","ver":"060600","type":"core"}
+		{"id":"110703","desc":"Update orb data","ver":"060600","type":"core"},
+		{"id":"110704","desc":"BC unit/item icons","ver":"060600","type":"bot"}
     ],
 
     "pc_libs": [
