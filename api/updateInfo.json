@@ -166,7 +166,7 @@
     ],
 
     "pc_update":[
-		{"ver":50016,"desc":"This version adds statistic feature in battle, fixes bugs.","isRelease":true},
+		{"ver":50116,"desc":"This version adds statistic feature in battle, fixes bugs.","isRelease":true},
 		{"ver":50115,"desc":"This version adds custom EX stage continuation, and other small stuffs with bug fixes.","isRelease":true},
 		{"ver":50114,"desc":"This version fixes bugs","isRelease":true},
 		{"ver":50113,"desc":"This version adds accurate sniper item, follow-up stage, custom dojo, miscellaneous stage information, and few other features with bug fixes.","isRelease":true},
