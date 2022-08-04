@@ -169,6 +169,7 @@
     ],
 
     "pc_update":[
+		{"ver":50117,"desc":"This version adds 11.8 contents, fixes bugs, and adds unit kill counter feature.","isRelease":true},
 		{"ver":50116,"desc":"This version adds statistic feature in battle, fixes bugs.","isRelease":true},
 		{"ver":50115,"desc":"This version adds custom EX stage continuation, and other small stuffs with bug fixes.","isRelease":true},
 		{"ver":50114,"desc":"This version fixes bugs","isRelease":true},
@@ -289,7 +290,8 @@
 		{"ver":"0.16.10","isTest":false},
 		{"ver":"0.16.11","isTest":false},
 		{"ver":"0.16.12","isTest":false},
-		{"ver":"0.16.13","isTest":false}
+		{"ver":"0.16.13","isTest":false},
+		{"ver":"0.16.14","isTest":false}
 	],
 
     "text_update":0,
