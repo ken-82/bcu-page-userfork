@@ -109,8 +109,9 @@
 		{"id":"110705","desc":"Ms.sign enemy icon","ver":"060600","type":"bot"},
 		{"id":"110800","desc":"BC 11.8 contents","ver":"060700","type":"core"},
 		{"id":"110801","desc":"BC 11.8 medal, enemy icons","ver":"060700","type":"android"},
-		{"id":"110802","desc":"BC 11.8 gacha/mission data/unit icons","ver":"060700","type":"bot"}
-    ],
+		{"id":"110802","desc":"BC 11.8 gacha/mission data/unit icons","ver":"060700","type":"bot"},
+		{"id":"110803","desc":"Enemy 614 zombie animation","ver":"060700","type":"core"}
+	],
 
     "pc_libs": [
         "gluegen-rt-2.3.2.jar",
