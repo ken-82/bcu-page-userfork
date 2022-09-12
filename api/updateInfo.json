@@ -111,7 +111,10 @@
 		{"id":"110801","desc":"BC 11.8 medal, enemy icons","ver":"060700","type":"android"},
 		{"id":"110802","desc":"BC 11.8 gacha/mission data/unit icons","ver":"060700","type":"bot"},
 		{"id":"110803","desc":"Enemy 614 zombie animation","ver":"060700","type":"core"},
-		{"id":"110804","desc":"BCKR, BCTW exclusives","ver":"060700","type":"core"}
+		{"id":"110804","desc":"BCKR, BCTW exclusives","ver":"060700","type":"core"},
+		{"id":"110900","desc":"BC 11.9 contents","ver":"060701","type":"core"},
+		{"id":"110901","desc":"BC 11.9 enemy icons","ver":"060701","type":"android"},
+		{"id":"110902","desc":"BC 11.9 gacha/mission data/unit icons","ver":"060701","type":"bot"}
 	],
 
     "pc_libs": [
@@ -171,6 +174,7 @@
     ],
 
     "pc_update":[
+		{"ver":50121,"desc":"This version adds 11.9 contents, fixes few bugs.","isRelease":true},
 		{"ver":50120,"desc":"This version fixes few bugs.","isRelease":true},
 		{"ver":50119,"desc":"This version fixes reussrection with no soul, improves boss flag setting.","isRelease":true},
 		{"ver":50118,"desc":"This version fixes boss flag 2 behavior, and speed up problem in replay.","isRelease":true},
@@ -300,10 +304,11 @@
 		{"ver":"0.16.15","isTest":false},
 		{"ver":"0.16.16","isTest":false},
 		{"ver":"0.16.17","isTest":false},
-		{"ver":"0.16.18","isTest":false}
+		{"ver":"0.16.18","isTest":false},
+		{"ver":"0.16.19","isTest":false}
 	],
 
     "text_update":0,
 
-    "music": 151
+    "music": 153
 }
