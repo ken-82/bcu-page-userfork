@@ -117,7 +117,8 @@
 		{"id":"110902","desc":"BC 11.9 gacha/mission data/unit icons","ver":"060701","type":"bot"},
 		{"id":"110903","desc":"BC 11.9.2 contents","ver":"060800","type":"core"},
 		{"id":"110904","desc":"BC 11.9.2 enemy icons","ver":"060800","type":"android"},
-		{"id":"110905","desc":"BC 11.9.2 gacha/mission data/unit icons","ver":"060800","type":"bot"}
+		{"id":"110905","desc":"BC 11.9.2 gacha/mission data/unit icons","ver":"060800","type":"bot"},
+		{"id":"110906","desc":"BC 11.9 global gacha data","ver":"060800","type":"bot"}
 	],
 
     "pc_libs": [
@@ -177,6 +178,7 @@
     ],
 
     "pc_update":[
+		{"ver":50123,"desc":"This version fixes breaker/holy cannon soulstrike problem.","isRelease":true},
 		{"ver":50122,"desc":"This version adds 11.9.2 contents, fixes bg 185 problem.","isRelease":true},
 		{"ver":50121,"desc":"This version adds 11.9 contents, fixes few bugs.","isRelease":true},
 		{"ver":50120,"desc":"This version fixes few bugs.","isRelease":true},
@@ -310,7 +312,8 @@
 		{"ver":"0.16.17","isTest":false},
 		{"ver":"0.16.18","isTest":false},
 		{"ver":"0.16.19","isTest":false},
-		{"ver":"0.16.20","isTest":false}
+		{"ver":"0.16.20","isTest":false},
+		{"ver":"0.16.21","isTest":false}
 	],
 
     "text_update":0,
