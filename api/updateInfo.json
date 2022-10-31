@@ -181,6 +181,7 @@
     ],
 
     "pc_update":[
+		{"ver":50125,"desc":"This version adds 11.10 contents.","isRelease":true},
 		{"ver":50124,"desc":"This version fixes breaker cannon behavior.","isRelease":true},
 		{"ver":50123,"desc":"This version fixes breaker/holy cannon soulstrike problem.","isRelease":true},
 		{"ver":50122,"desc":"This version adds 11.9.2 contents, fixes bg 185 problem.","isRelease":true},
@@ -318,7 +319,8 @@
 		{"ver":"0.16.19","isTest":false},
 		{"ver":"0.16.20","isTest":false},
 		{"ver":"0.16.21","isTest":false},
-		{"ver":"0.16.22","isTest":false}
+		{"ver":"0.16.22","isTest":false},
+		{"ver":"0.16.23","isTest":false}
 	],
 
     "text_update":0,
