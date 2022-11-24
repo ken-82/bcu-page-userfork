@@ -121,7 +121,8 @@
 		{"id":"110906","desc":"BC 11.9 global gacha data","ver":"060800","type":"bot"},
 		{"id":"111000","desc":"BC 11.10 contents","ver":"060900","type":"core"},
 		{"id":"111001","desc":"BC 11.10 enemy icons","ver":"060900","type":"android"},
-		{"id":"111002","desc":"BC 11.10 gacha/mission data/unit/reward icons","ver":"060900","type":"bot"}
+		{"id":"111002","desc":"BC 11.10 gacha/mission data/unit/reward icons","ver":"060900","type":"bot"},
+		{"id":"111004","desc":"BC 11.10 global mission data","ver":"060900","type":"bot"}
 	],
 
     "pc_libs": [
