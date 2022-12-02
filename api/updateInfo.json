@@ -123,7 +123,8 @@
 		{"id":"111001","desc":"BC 11.10 enemy icons","ver":"060900","type":"android"},
 		{"id":"111002","desc":"BC 11.10 gacha/mission data/unit/reward icons","ver":"060900","type":"bot"},
 		{"id":"111003","desc":"Soul icon","ver":"060901","type":"core"},
-		{"id":"111004","desc":"BC 11.10 global mission data","ver":"060900","type":"bot"}
+		{"id":"111004","desc":"BC 11.10 global mission data","ver":"060900","type":"bot"},
+		{"id":"111005","desc":"BC 11.10 material drop data","ver":"060901","type":"core"}
 	],
 
     "pc_libs": [
