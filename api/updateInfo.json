@@ -187,7 +187,7 @@
     ],
 
     "pc_update":[
-		{"ver":50200,"desc":"This version adds 12.0 contents, custom soul, and fixes bugs.","isRelease":true},
+		{"ver":50200,"desc":"This version adds 12.0 contents, custom soul, and many quality of life changes.","isRelease":true},
 		{"ver":50125,"desc":"This version adds 11.10 contents.","isRelease":true},
 		{"ver":50124,"desc":"This version fixes breaker cannon behavior.","isRelease":true},
 		{"ver":50123,"desc":"This version fixes breaker/holy cannon soulstrike problem.","isRelease":true},
@@ -327,7 +327,8 @@
 		{"ver":"0.16.20","isTest":false},
 		{"ver":"0.16.21","isTest":false},
 		{"ver":"0.16.22","isTest":false},
-		{"ver":"0.16.23","isTest":false}
+		{"ver":"0.16.23","isTest":false},
+		{"ver":"0.16.24","isTest":false}
 	],
 
     "text_update":0,
