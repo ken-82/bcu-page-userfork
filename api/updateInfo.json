@@ -127,7 +127,8 @@
 		{"id":"111005","desc":"BC 11.10 material drop data","ver":"060901","type":"core"},
 		{"id":"120000","desc":"BC 12.0 contents","ver":"060901","type":"core"},
 		{"id":"120001","desc":"BC 12.0 enemy icons/medal/catfruit","ver":"060901","type":"android"},
-		{"id":"120002","desc":"BC 12.0 gacha/mission data/unit/reward icons","ver":"060901","type":"bot"}
+		{"id":"120002","desc":"BC 12.0 gacha/mission data/unit/reward icons","ver":"060901","type":"bot"},
+		{"id":"120003","desc":"BC 12.0 kr ex stage","ver":"060901","type":"core"}
 	],
 
     "pc_libs": [
