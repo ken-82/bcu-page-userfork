@@ -131,7 +131,8 @@
 		{"id":"120003","desc":"BC 12.0 kr ex stage","ver":"060901","type":"core"},
 		{"id":"120100","desc":"BC 12.1 contents","ver":"070100","type":"core"},
 		{"id":"120101","desc":"BC 12.1 enemy icon","ver":"070100","type":"android"},
-		{"id":"120102","desc":"BC 12.1 gacha/mission data/unit/reward icons","ver":"070100","type":"bot"}
+		{"id":"120102","desc":"BC 12.1 gacha/mission data/unit/reward icons","ver":"070100","type":"bot"},
+		{"id":"120103","desc":"Fix 019/020 edi icon","ver":"070100","type":"bot"}
 	],
 
     "pc_libs": [
