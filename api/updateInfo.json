@@ -196,7 +196,7 @@
     ],
 
     "pc_update":[
-		{"ver":50203,"desc":"This versino adds 12.2 contents","isRelease":true},
+		{"ver":50203,"desc":"This version adds 12.2 contents","isRelease":true},
 		{"ver":50202,"desc":"This version adds 12.1 contents, realistic leveling, separation of level and plus-level.","isRelease":true},
 		{"ver":50201,"desc":"This version fixes some bugs, and adds feature to check BC music file change.","isRelease":true},
 		{"ver":50200,"desc":"This version adds 12.0 contents, custom soul, and many quality of life changes.","isRelease":true},
