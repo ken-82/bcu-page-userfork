@@ -136,8 +136,7 @@
 		{"id":"120104","desc":"BC 12.1 global gacha/mission data","ver":"060901","type":"bot"},
 		{"id":"120200","deec":"BC 12.2 contents","ver":"070101","type":"core"},
 		{"id":"120201","desc":"BC 12.2 enemy icon","ver":"070101","type":"android"},
-		{"id":"120202","desc":"BC 12.2 gacha/mission data/unit/reward icons","ver":"070101","type":"bot"},
-		{"id":"120203","desc":"BC 12.2 labyrinth stages","ver":"070101","type":"core"}
+		{"id":"120202","desc":"BC 12.2 gacha/mission data/unit/reward icons","ver":"070101","type":"bot"}
 	],
 
     "pc_libs": [
