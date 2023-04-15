@@ -158,7 +158,7 @@
         "jogl-all-2.3.2-natives-linux-amd64.jar",
         "gluegen-rt-2.3.2-natives-solaris-i586.jar",
         "jcodec-0.2.3.jar",
-        "json-20180813.jar",
+        "json-20230227.jar",
         "google-api-services-drive-v3-rev105-1.23.0.jar",
 		"httpclient-4.5.13.jar",
         "gluegen-rt-2.3.2-natives-android-armv6.jar",
@@ -201,6 +201,7 @@
     ],
 
     "pc_update":[
+		{"ver":50205,"desc":"This verions adds 12.3 contents, and foundation/decoration feature.","isRelease":true},
 		{"ver":50204,"desc":"This version fixes 12.2 stage reading problem, and background effect problem.","isRelease":true},
 		{"ver":50203,"desc":"This version adds 12.2 contents.","isRelease":true},
 		{"ver":50202,"desc":"This version adds 12.1 contents, realistic leveling, separation of level and plus-level.","isRelease":true},
@@ -350,7 +351,8 @@
 		{"ver":"0.16.25","isTest":false},
 		{"ver":"0.16.26","isTest":false},
 		{"ver":"0.16.27","isTest":false},
-		{"ver":"0.16.28","isTest":false}
+		{"ver":"0.16.28","isTest":false},
+		{"ver":"0.16.29","isTest":false}
 	],
 
     "text_update":0,
