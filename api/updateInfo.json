@@ -201,6 +201,7 @@
     ],
 
     "pc_update":[
+		{"ver":50206,"desc":"This version fixes 12.3 talent text data probelm.","isRelease":true},
 		{"ver":50205,"desc":"This verions adds 12.3 contents, and foundation/decoration feature.","isRelease":true},
 		{"ver":50204,"desc":"This version fixes 12.2 stage reading problem, and background effect problem.","isRelease":true},
 		{"ver":50203,"desc":"This version adds 12.2 contents.","isRelease":true},
@@ -352,7 +353,8 @@
 		{"ver":"0.16.26","isTest":false},
 		{"ver":"0.16.27","isTest":false},
 		{"ver":"0.16.28","isTest":false},
-		{"ver":"0.16.29","isTest":false}
+		{"ver":"0.16.29","isTest":false},
+		{"ver":"0.16.30","isTest":false}
 	],
 
     "text_update":0,
