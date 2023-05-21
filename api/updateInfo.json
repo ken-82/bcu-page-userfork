@@ -201,6 +201,7 @@
     ],
 
     "pc_update":[
+		{"ver":50207,"desc":"This version implements more proper reward name data reading.","isRelease":true},
 		{"ver":50206,"desc":"This version fixes 12.3 talent text data probelm.","isRelease":true},
 		{"ver":50205,"desc":"This verions adds 12.3 contents, and foundation/decoration feature.","isRelease":true},
 		{"ver":50204,"desc":"This version fixes 12.2 stage reading problem, and background effect problem.","isRelease":true},
@@ -356,7 +357,8 @@
 		{"ver":"0.16.29","isTest":false},
 		{"ver":"0.16.30","isTest":false},
 		{"ver":"0.16.31","isTest":false},
-		{"ver":"0.16.32","isTest":false}
+		{"ver":"0.16.32","isTest":false},
+		{"ver":"0.16.33","isTest":false}
 	],
 
     "text_update":0,
