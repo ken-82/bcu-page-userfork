@@ -203,6 +203,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50210,"desc":"This version fixes flickering on certain pages.","isRelease":true},
 		{"ver":50209,"desc":"This version adds 12.5, fixes few bugs.","isRelease":true},
 		{"ver":50208,"desc":"This version adds 12.4, fixes few bugs.","isRelease":true},
 		{"ver":50207,"desc":"This version implements more proper reward name data reading.","isRelease":true},
