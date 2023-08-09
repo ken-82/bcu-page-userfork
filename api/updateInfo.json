@@ -148,7 +148,8 @@
 		{"id":"120500","desc":"BC 12.5 contents","ver":"070401","type":"core"},
 		{"id":"120501","desc":"BC 12.5 enemy icons/medal","ver":"070401","type":"android"},
 		{"id":"120502","desc":"BC 12.5 gacha/mission data/item/unit icons","ver":"070401","type":"bot"},
-		{"id":"120503","desc":"BC 12.5 cat cpu lock data","ver":"070401","type":"core"}
+		{"id":"120503","desc":"BC 12.5 cat cpu lock data","ver":"070401","type":"core"},
+		{"id":"120504","desc":"BC 12.5 global gacha/mission data","ver":"070401","type":"bot"}
 	],
 
 	"pc_libs": [
