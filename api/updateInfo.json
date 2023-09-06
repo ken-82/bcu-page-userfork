@@ -208,6 +208,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50212,"desc":"This version fixes critical bugs, and stabilizes many problems","isRelease":true},
 		{"ver":50211,"desc":"This version adds 12.6, fixes bugs, improves battle simulation and memory management, and 60fps animation.","isRelease":true},
 		{"ver":50210,"desc":"This version fixes flickering on certain pages.","isRelease":true},
 		{"ver":50209,"desc":"This version adds 12.5, fixes few bugs.","isRelease":true},
@@ -377,7 +378,8 @@
 		{"ver":"0.18.0","isTest":false},
 		{"ver":"0.18.1","isTest":false},
 		{"ver":"0.18.2","isTest":false},
-		{"ver":"0.18.3","isTest":false}
+		{"ver":"0.18.3","isTest":false},
+		{"ver":"0.18.4","isTest":false}
 	],
 
 	"text_update":0,
