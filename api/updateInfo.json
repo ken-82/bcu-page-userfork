@@ -208,7 +208,8 @@
 	],
 
 	"pc_update":[
-		{"ver":50212,"desc":"This version fixes critical bugs, and stabilizes many problems","isRelease":true},
+		{"ver":50213,"desc":"This version fixes pack validation stability problem.","isRelease":true},
+		{"ver":50212,"desc":"This version fixes critical bugs, and stabilizes many problems.","isRelease":true},
 		{"ver":50211,"desc":"This version adds 12.6, fixes bugs, improves battle simulation and memory management, and 60fps animation.","isRelease":true},
 		{"ver":50210,"desc":"This version fixes flickering on certain pages.","isRelease":true},
 		{"ver":50209,"desc":"This version adds 12.5, fixes few bugs.","isRelease":true},
