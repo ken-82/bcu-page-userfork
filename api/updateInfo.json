@@ -383,7 +383,8 @@
 		{"ver":"0.18.3","isTest":false},
 		{"ver":"0.18.4","isTest":false},
 		{"ver":"0.18.5","isTest":false},
-		{"ver":"0.18.6","isTest":false}
+		{"ver":"0.18.6","isTest":false},
+		{"ver":"0.18.7","isTest":false}
 	],
 
 	"text_update":0,
