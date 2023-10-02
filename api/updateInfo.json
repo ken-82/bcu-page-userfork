@@ -156,7 +156,8 @@
 		{"id":"120603","desc":"BC 12.6 medal sprite","ver":"070403","type":"android"},
 		{"id":"120700","desc":"BC 12.7 contents","ver":"070403","type":"core"},
 		{"id":"120701","desc":"BC 12.7 enemy icons/medal","ver":"070403","type":"android"},
-		{"id":"120701","desc":"BC 12.7 gacha/mission data","ver":"070403","type":"bot"}
+		{"id":"120702","desc":"BC 12.7 gacha/mission data","ver":"070403","type":"bot"},
+		{"id":"120703","desc":"BC 12.7 bg effect data","ver":"070403","type":"core"}
 	],
 
 	"pc_libs": [
