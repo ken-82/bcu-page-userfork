@@ -161,7 +161,10 @@
 		{"id":"120704","desc":"BC 12.7 bg effect rain data","ver":"070403","type":"core"},
 		{"id":"130000","desc":"BC 13.0 contents","ver":"070500","type":"core"},
 		{"id":"130001","desc":"BC 13.0 enemy icons/medal","ver":"070500","type":"android"},
-		{"id":"130002","desc":"BC 13.0 gacha/mission data/item/unit icons","ver":"070500","type":"bot"}
+		{"id":"130002","desc":"BC 13.0 gacha/mission data/item/unit icons","ver":"070500","type":"bot"},
+		{"id":"130100","desc":"BC 13.1 contents","ver":"070600","type":"core"},
+		{"id":"130101","desc":"BC 13.1 enemy icons/medal","ver":"070600","type":"android"},
+		{"id":"130102","desc":"BC 13.1 gacha/mission data/item/unit icons","ver":"070600","type":"bot"}
 	],
 
 	"pc_libs": [
