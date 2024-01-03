@@ -219,6 +219,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50217,"desc":"This version fixes curse interaction bug.","isRelease":true},
 		{"ver":50216,"desc":"This version adds 13.1, along with customizable spirit summon.","isRelease":true},
 		{"ver":50215,"desc":"This version adds 13.0, along with ultra form information.","isRelease":true},
 		{"ver":50214,"desc":"This version loosens pack validation strictness, and adds pack validating page.","isRelease":true},
@@ -399,7 +400,8 @@
 		{"ver":"0.18.6","isTest":false},
 		{"ver":"0.18.7","isTest":false},
 		{"ver":"0.18.8","isTest":false},
-		{"ver":"0.18.9","isTest":false}
+		{"ver":"0.18.9","isTest":false},
+		{"ver":"0.18.10","isTest":false}
 	],
 
 	"text_update":0,
