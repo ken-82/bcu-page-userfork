@@ -403,7 +403,8 @@
 		{"ver":"0.18.8","isTest":false},
 		{"ver":"0.18.9","isTest":false},
 		{"ver":"0.18.10","isTest":false},
-		{"ver":"0.18.11","isTest":false}
+		{"ver":"0.18.11","isTest":false},
+		{"ver":"0.18.12","isTest":false}
 	],
 
 	"text_update":0,
