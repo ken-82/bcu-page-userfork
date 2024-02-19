@@ -167,7 +167,8 @@
 		{"id":"130102","desc":"BC 13.1 gacha/mission data/item/unit icons","ver":"070600","type":"bot"},
 		{"id":"130200","desc":"BC 13.2 contents","ver":"070600","type":"core"},
 		{"id":"130201","desc":"BC 13.2 enemy icons","ver":"070600","type":"android"},
-		{"id":"130202","desc":"BC 13.2 gacha/mission data/item/unit icons","ver":"070600","type":"bot"}
+		{"id":"130202","desc":"BC 13.2 gacha/mission data/item/unit icons","ver":"070600","type":"bot"},
+		{"id":"130203","desc":"Exclusive castle fix","ver":"070600","type":"core"}
 	],
 
 	"pc_libs": [
