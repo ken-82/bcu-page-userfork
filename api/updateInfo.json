@@ -226,6 +226,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50219,"desc":"This version fixes few bugs, UI improvements.","isRelease":true},
 		{"ver":50218,"desc":"This version fixes immunity problems.","isRelease":true},
 		{"ver":50217,"desc":"This version fixes curse interaction bug.","isRelease":true},
 		{"ver":50216,"desc":"This version adds 13.1, along with customizable spirit summon.","isRelease":true},
