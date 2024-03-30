@@ -230,6 +230,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50220,"desc":"This version adds 13.3, along with few bugs fixed","isRelease":true},
 		{"ver":50219,"desc":"This version fixes few bugs, UI improvements.","isRelease":true},
 		{"ver":50218,"desc":"This version fixes immunity problems.","isRelease":true},
 		{"ver":50217,"desc":"This version fixes curse interaction bug.","isRelease":true},
@@ -416,7 +417,8 @@
 		{"ver":"0.18.9","isTest":false},
 		{"ver":"0.18.10","isTest":false},
 		{"ver":"0.18.11","isTest":false},
-		{"ver":"0.18.12","isTest":false}
+		{"ver":"0.18.12","isTest":false},
+		{"ver":"0.18.13","isTest":false}
 	],
 
 	"text_update":0,
