@@ -171,66 +171,79 @@
 		{"id":"130203","desc":"Exclusive castle fix","ver":"070600","type":"core"},
 		{"id":"130300","desc":"BC 13.3 contents","ver":"070700","type":"core"},
 		{"id":"130301","desc":"BC 13.3 enemy icons/medal","ver":"070700","type":"android"},
-		{"id":"130302","desc":"BC 13.3 gacha/mission data/unit icons","ver":"070700","type":"bot"}
+		{"id":"130302","desc":"BC 13.3 gacha/mission data/unit icons","ver":"070700","type":"bot"},
+		{"id":"130303","desc":"BC 13.3 additional contents","ver":"070700","type":"core"},
+		{"id":"130304","desc":"BC 13.3 additional enemy icons","ver":"070700","type":"android"},
+		{"id":"130305","desc":"BC 13.3 additional gacha/missiondata/unit icons","ver":"070700","type":"bot"}
 	],
 
 	"pc_libs": [
-		"annotations-13.0.jar",
-		"antlr-2.7.7.jar",
-		"checker-qual-3.12.0.jar",
-		"commons-codec-1.16.0.jar",
-		"commons-io-2.7.jar",
-		"commons-logging-1.2.jar",
-		"error_prone_annotations-2.11.0.jar",
-		"failureaccess-1.0.1.jar",
-		"gluegen-rt-2.3.2-natives-android-aarch64.jar",
-		"gluegen-rt-2.3.2-natives-linux-amd64.jar",
-		"gluegen-rt-2.3.2-natives-linux-armv6hf.jar",
-		"gluegen-rt-2.3.2-natives-macosx-universal.jar",
-		"gluegen-rt-2.3.2-natives-windows-amd64.jar",
-		"gluegen-rt-2.3.2-natives-linux-i586.jar",
-		"gluegen-rt-2.3.2-natives-windows-i586.jar",
-		"gluegen-rt-2.3.2.jar",
-		"gluegen-rt-main-2.3.2.jar",
-		"google-api-client-2.2.0.jar",
-		"google-api-services-drive-v3-rev105-1.23.0.jar",
-		"google-http-client-1.24.1.jar",
-		"google-http-client-apache-v2-1.42.3.jar",
-		"google-http-client-gson-1.42.3.jar",
-		"google-oauth-client-1.34.1.jar",
-		"google-oauth-client-java6-1.34.1.jar",
-		"google-oauth-client-jetty-1.34.1.jar",
-		"gson-2.8.9.jar",
-		"guava-31.1-jre.jar",
-		"httpclient-4.5.13.jar",
-		"httpcore-4.4.10.jar",
-		"httpmime-4.5.6.jar",
-		"j2objc-annotations-1.3.jar",
-		"jcodec-0.2.3.jar",
-		"jcodec-javase-0.2.3.jar",
-		"jogl-all-2.3.2-natives-android-aarch64.jar",
-		"jogl-all-2.3.2-natives-linux-amd64.jar",
-		"jogl-all-2.3.2-natives-linux-armv6hf.jar",
-		"jogl-all-2.3.2-natives-macosx-universal.jar",
-		"jogl-all-2.3.2-natives-windows-amd64.jar",
-		"jogl-all-2.3.2-natives-linux-i586.jar",
-		"jogl-all-2.3.2-natives-windows-i586.jar",
-		"jogl-all-2.3.2.jar",
-		"jogl-all-main-2.3.2.jar",
-		"jorbis-0.0.17.4.jar",
-		"json-20230227.jar",
-		"jsr305-3.0.2.jar",
-		"kotlin-stdlib-1.6.21.jar",
-		"kotlin-stdlib-common-1.6.21.jar",
-		"kotlin-stdlib-jdk7-1.6.21.jar",
-		"kotlin-stdlib-jdk8-1.6.21.jar",
-		"listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
-		"tritonus-share-0.3.7.4.jar",
-		"vorbisspi-1.0.3.3.jar"
+		"annotations-13.0.jar"
+ 		"auto-value-annotations-1.10.4.jar"
+ 		"checker-qual-3.41.0.jar"
+ 		"commons-codec-1.16.1.jar"
+ 		"commons-io-2.16.1.jar"
+ 		"commons-logging-1.3.1.jar"
+ 		"error_prone_annotations-2.23.0.jar"
+ 		"failureaccess-1.0.2.jar"
+ 		"gluegen-rt-2.3.2-natives-linux-amd64.jar"
+ 		"gluegen-rt-2.3.2-natives-linux-armv6.jar"
+ 		"gluegen-rt-2.3.2-natives-linux-armv6hf.jar"
+ 		"gluegen-rt-2.3.2-natives-linux-i586.jar"
+ 		"gluegen-rt-2.3.2-natives-macosx-universal.jar"
+ 		"gluegen-rt-2.3.2-natives-solaris-amd64.jar"
+ 		"gluegen-rt-2.3.2-natives-solaris-i586.jar"
+ 		"gluegen-rt-2.3.2-natives-windows-amd64.jar"
+ 		"gluegen-rt-2.3.2-natives-windows-i586.jar"
+ 		"gluegen-rt-2.3.2.jar"
+ 		"gluegen-rt-main-2.3.2.jar"
+ 		"google-api-client-2.4.0.jar"
+ 		"google-api-services-drive-v3-rev20240327-2.0.0.jar"
+ 		"google-auth-library-credentials-1.23.0.jar"
+ 		"google-auth-library-oauth2-http-1.23.0.jar"
+ 		"google-http-client-1.44.1.jar"
+ 		"google-http-client-apache-v2-1.44.1.jar"
+ 		"google-http-client-gson-1.44.1.jar"
+ 		"google-oauth-client-1.35.0.jar"
+ 		"google-oauth-client-java6-1.35.0.jar"
+ 		"google-oauth-client-jetty-1.35.0.jar"
+ 		"grpc-api-1.60.1.jar"
+ 		"grpc-context-1.60.1.jar"
+ 		"gson-2.10.1.jar"
+ 		"guava-33.0.0-jre.jar"
+ 		"httpclient-4.5.14.jar"
+ 		"httpcore-4.4.16.jar"
+ 		"httpmime-4.5.14.jar"
+ 		"j2objc-annotations-2.8.jar"
+ 		"jcodec-0.2.5.jar"
+ 		"jcodec-javase-0.2.5.jar"
+ 		"jogl-all-2.3.2-natives-linux-amd64.jar"
+ 		"jogl-all-2.3.2-natives-linux-armv6.jar"
+ 		"jogl-all-2.3.2-natives-linux-armv6hf.jar"
+ 		"jogl-all-2.3.2-natives-linux-i586.jar"
+ 		"jogl-all-2.3.2-natives-macosx-universal.jar"
+ 		"jogl-all-2.3.2-natives-solaris-amd64.jar"
+ 		"jogl-all-2.3.2-natives-solaris-i586.jar"
+ 		"jogl-all-2.3.2-natives-windows-amd64.jar"
+ 		"jogl-all-2.3.2-natives-windows-i586.jar"
+ 		"jogl-all-2.3.2.jar"
+ 		"jogl-all-main-2.3.2.jar"
+ 		"jorbis-0.0.17.4.jar"
+ 		"json-20240303.jar"
+ 		"jsr305-3.0.2.jar"
+ 		"kotlin-stdlib-1.9.23.jar"
+ 		"kotlin-stdlib-jdk7-1.9.23.jar"
+ 		"kotlin-stdlib-jdk8-1.9.23.jar"
+ 		"listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
+ 		"opencensus-api-0.31.1.jar"
+ 		"opencensus-contrib-http-util-0.31.1.jar"
+ 		"tritonus-share-0.3.7.4.jar"
+ 		"vorbisspi-1.0.3.3.jar"
 	],
 
 	"pc_update":[
-		{"ver":50220,"desc":"This version adds 13.3, along with few bugs fixed","isRelease":true},
+		{"ver":50221,"desc":"This version updates libraries for better securities.","isRelease":true},
+		{"ver":50220,"desc":"This version adds 13.3, along with few bugs fixed.","isRelease":true},
 		{"ver":50219,"desc":"This version fixes few bugs, UI improvements.","isRelease":true},
 		{"ver":50218,"desc":"This version fixes immunity problems.","isRelease":true},
 		{"ver":50217,"desc":"This version fixes curse interaction bug.","isRelease":true},
@@ -423,5 +436,5 @@
 
 	"text_update":0,
 
-	"music": 164
+	"music": 166
 }
