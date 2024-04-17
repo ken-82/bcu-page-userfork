@@ -242,6 +242,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50223,"desc":"This version temporarily reverts changes to animation scale, fix charagroup bug.","isRelease":true},
 		{"ver":50222,"desc":"This version fixes entity kb/hb animation bug.","isRelease":true},
 		{"ver":50221,"desc":"This version updates libraries for better securities.","isRelease":true},
 		{"ver":50220,"desc":"This version adds 13.3, along with few bugs fixed.","isRelease":true},
