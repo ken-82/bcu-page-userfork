@@ -178,7 +178,8 @@
 		{"id":"130400","desc":"BC 13.4 contents","ver":"070700","type":"core"},
 		{"id":"130401","desc":"BC 13.4 enemy icons/medal","ver":"070700","type":"android"},
 		{"id":"130402","desc":"BC 13.4 gacha/mission data/item/unit icons","ver":"070700","type":"bot"},
-		{"id":"130403","desc":"BC 13.4 global data fix","ver":"070700","type":"core"}
+		{"id":"130403","desc":"BC 13.4 global data fix","ver":"070700","type":"core"},
+		{"id":"130404","desc":"BC 13.4 additional unit","ver":"070700","type":"core"}
 	],
 
 	"pc_libs": [
