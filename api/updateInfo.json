@@ -242,6 +242,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50301,"desc":"This version fixes critical bugs, and corrected cannon/foundation/decoration calculations.","isRelease":true},
 		{"ver":50300,"desc":"This version fixes copy and pasting stages.","isRelease":true},
 		{"ver":50226,"desc":"This version fixes calculation crash with custom cats.","isRelease":true},
 		{"ver":50225,"desc":"This version adds 13.5 contents, battle accuracy, ui improvements, and animation adjustments.","isRelease":true},
