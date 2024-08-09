@@ -245,6 +245,7 @@
 	],
 
 	"pc_update":[
+		{"ver":50302,"desc":"This version adds 13.6 contents, inverted waves, and fixes bugs.","isRelease":true},
 		{"ver":50301,"desc":"This version fixes critical bugs, and corrected cannon/foundation/decoration calculations.","isRelease":true},
 		{"ver":50300,"desc":"This version fixes copy and pasting stages.","isRelease":true},
 		{"ver":50226,"desc":"This version fixes calculation crash with custom cats.","isRelease":true},
