@@ -185,7 +185,8 @@
 		{"id":"130502","desc":"BC 13.5 gacha/mission data/item/unit icons","ver":"070800","type":"bot"},
 		{"id":"130600","desc":"BC 13.6 contents","ver":"070802","type":"core"},
 		{"id":"130601","desc":"BC 13.6 enemy icons","ver":"070802","type":"android"},
-		{"id":"130602","desc":"BC 13.6 gacha/mission data/item/unit icons","ver":"070802","type":"bot"}
+		{"id":"130602","desc":"BC 13.6 gacha/mission data/item/unit icons","ver":"070802","type":"bot"},
+		{"id":"130603","desc":"BC 13.6.1 contents","ver":"070802","type":"core"}
 	],
 
 	"pc_libs": [
