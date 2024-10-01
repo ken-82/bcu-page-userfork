@@ -186,7 +186,10 @@
 		{"id":"130600","desc":"BC 13.6 contents","ver":"070802","type":"core"},
 		{"id":"130601","desc":"BC 13.6 enemy icons","ver":"070802","type":"android"},
 		{"id":"130602","desc":"BC 13.6 gacha/mission data/item/unit icons","ver":"070802","type":"bot"},
-		{"id":"130603","desc":"BC 13.6.1 contents","ver":"070802","type":"core"}
+		{"id":"130603","desc":"BC 13.6.1 contents","ver":"070802","type":"core"},
+		{"id":"130700","desc":"BC 13.7 contents","ver":"070803","type":"core"},
+		{"id":"130701","desc":"BC 13.7 enemy icons/medal","ver":"070803","type":"android"},
+		{"id":"130702","desc":"BC 13.7 gacha/mission data/item/unit icons","ver":"070803","type":"bot"}
 	],
 
 	"pc_libs": [
@@ -448,5 +451,5 @@
 
 	"text_update":0,
 
-	"music": 167
+	"music": 170
 }
