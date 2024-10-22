@@ -190,7 +190,8 @@
 		{"id":"130700","desc":"BC 13.7 contents","ver":"070803","type":"core"},
 		{"id":"130701","desc":"BC 13.7 enemy icons/medal","ver":"070803","type":"android"},
 		{"id":"130702","desc":"BC 13.7 gacha/mission data/item/unit icons","ver":"070803","type":"bot"},
-		{"id":"130703","desc":"Trixi udi icon fix","ver":"070803","type":"core"}
+		{"id":"130703","desc":"Trixi udi icon fix","ver":"070803","type":"core"},
+		{"id":"130704","desc":"BC 13.7 global gacha/mission data","ver":"070803","type":"bot"}
 	],
 
 	"pc_libs": [
