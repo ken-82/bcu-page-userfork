@@ -191,7 +191,11 @@
 		{"id":"130701","desc":"BC 13.7 enemy icons/medal","ver":"070803","type":"android"},
 		{"id":"130702","desc":"BC 13.7 gacha/mission data/item/unit icons","ver":"070803","type":"bot"},
 		{"id":"130703","desc":"Trixi udi icon fix","ver":"070803","type":"core"},
-		{"id":"130704","desc":"BC 13.7 global gacha/mission data","ver":"070803","type":"bot"}
+		{"id":"130704","desc":"BC 13.7 global gacha/mission data","ver":"070803","type":"bot"},
+		{"id":"140000","desc":"BC 14.0 contents","ver":"070900","type":"core"},
+		{"id":"140001","desc":"BC 14.0 enemy icons","ver":"070900","type":"android"},
+		{"id":"140002","desc":"BC 14.0 gacha/mission data/unit icons","ver":"070900","type":"bot"},
+		{"id":"140003","desc":"Add missing spirit icons","ver":"070900","type":"core"}
 	],
 
 	"pc_libs": [
@@ -453,5 +457,5 @@
 
 	"text_update":0,
 
-	"music": 170
+	"music": 174
 }
