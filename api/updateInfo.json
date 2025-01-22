@@ -198,7 +198,8 @@
 		{"id":"140003","desc":"Add missing spirit icons","ver":"070900","type":"core"},
 		{"id":"140100","desc":"BC 14.1 contents","ver":"070900","type":"core"},
 		{"id":"140101","desc":"BC 14.1 enemy icons/medal","ver":"070900","type":"android"},
-		{"id":"140102","desc":"BC 14.1 gacha/mission data/item/unit icons","ver":"070900","type":"bot"}
+		{"id":"140102","desc":"BC 14.1 gacha/mission data/item/unit icons","ver":"070900","type":"bot"},
+		{"id":"140105","desc":"BC 14.1.1 contents","ver":"070900","type":"core"}
 	],
 
 	"pc_libs": [
